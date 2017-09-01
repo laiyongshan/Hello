@@ -1,0 +1,69 @@
+1.优雅的构建Android项目之RxAndroid+Retrofit网络请求
+	http://www.jianshu.com/p/a7635e39c5ac
+
+2.用Butterknife注入框架提高开发效率  http://blog.csdn.net/u012702547/article/details/52194594
+
+3.安卓图标设计插件
+
+4.高逼格侧滑抽屉菜单FlowingDrawer
+
+5.底部Tab导航框架NavigationTabBar
+
+6.状态加载布局LoadingLayout
+
+7.Toasty信息提示框
+
+8.圆形头像图片CircleImageView
+
+9.可伸缩头部组件PullZoomView
+
+10.使用NavigationView建立列表菜单
+
+11.用ConstraintLayout打造经典自定义标题栏
+
+12.广告轮播组件AndroidImageSlider
+
+13.超个性Loading图标AVLoadingIndicatorView
+
+14.列表下拉刷新android-pulltorefresh
+
+15.手写自带删除按钮的EditText
+
+16.炫目的登录按钮android-process-button\
+
+17.Gson   http://blog.csdn.net/axuanqq/article/details/51441590
+
+18.fastJson
+
+19.okHttp   http://www.cnblogs.com/baiqiantao/p/a6b3d5eb5c6bf3f3bece9281ac127d86.html
+
+20.下拉刷新上拉加载 http://mp.weixin.qq.com/s/TE1XOXPTYTWHdkZ95amTGw
+
+21. Android 路由框架 
+
+	http://blog.csdn.net/u011404670/article/details/54883263
+
+	ActivityRouter中还实现了在浏览器中启动应用的界面，主要思路是启动一个透明activity，然后在activity中解析url，再启动目标activity。	ActivityRouter也支持直接解析http，打开web界面
+	http://blog.csdn.net/wangwangli6/article/details/71375465
+
+22. mui框架
+
+23. gank.io
+
+24、MVP架构 https://github.com/ccj659/clean-project-architecture
+
+25. xUtils框架使用（注解模块，网络模块，图片加载模块，数据库模块。）http://www.jb51.net/article/89784.htm
+
+26.Matisse(是一款由知乎开源的媒体选择器)  https://github.com/zhihu/Matisse   http://blog.csdn.net/qiaoshi96_bk/article/details/76164913
+
+27.Glide&&Picasso 图片加载开源库
+
+28.PinnedHeaderItemDecoration （吸顶效果的ItemDecoration ）
+
+29.Evenbus(事件总线 用于组件或线程通信,可替代回调,广播等)
+
+30.RecyclerView
+
+31.ARCore
+
+32.酷炫开源的UI框架 http://blog.csdn.net/fancylovejava/article/details/45787729/
