@@ -68,5 +68,15 @@
 
 32.酷炫开源的UI框架 http://blog.csdn.net/fancylovejava/article/details/45787729/
 
-33.常用第三方框架 http://blog.csdn.net/zh724738989/article/details/68489294
-		http://www.cnblogs.com/miaozhenzhong/p/5930876.html
+33.shape应用 http://blog.csdn.net/rflyee/article/details/20785495
+
+34. 打开QQ,指定某个号码的聊天界面
+	{
+		String url="mqqwpa://im/chat?chat_type=wpa&uin=501863587";    
+		startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url))); 
+	}
+
+35.终极大集合 
+
+	http://blog.csdn.net/u014120638/article/details/53887286
+	http://blog.csdn.net/u014120638/article/details/53887286
