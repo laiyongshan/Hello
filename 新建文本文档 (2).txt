@@ -62,7 +62,7 @@
 
 29.Evenbus(事件总线 用于组件或线程通信,可替代回调,广播等)
 
-30.RecyclerView
+30.BaseRecyclerView   https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 
 31.ARCore
 
