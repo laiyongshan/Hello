@@ -95,3 +95,6 @@
 38.移动支付开发
 
 39.技术论坛：http://wanandroid.com/
+
+40.照片处理：https://github.com/googlesamples/android-Camera2Basic
+		https://github.com/wuhaoyu1990/MagicCamera
