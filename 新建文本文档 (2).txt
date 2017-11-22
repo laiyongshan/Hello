@@ -110,6 +110,7 @@
 	http://cuiqingcai.com/1052.html
 
 45.mvvmÄ£Ê½  https://github.com/chiclaim/awesome-android-mvvm
+		http://blog.csdn.net/johnny901114/article/details/50706329
 
 
 46.retrofitÍøÂçÇëÇó¿ò¼Ü  http://www.jianshu.com/p/a7635e39c5ac
