@@ -122,3 +122,18 @@ http://www.jianshu.com/p/4c17956fe3b4
 	类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。
 https://github.com/jeasonlzy/NineGridView
 
+49.Okgo 封装了Okhttp的网络请求框架
+
+	https://github.com/jeasonlzy/okhttp-OkGo
+
+50.Material Design
+
+51. Materrial Design CollapsingToolbarLayout  
+   作用是提供了一个可以折叠的Toolbar，它继承至FrameLayout，给它设置layout_scrollFlags，它可以控制包含在CollapsingToolbarLayout中的控件(如：ImageView、Toolbar)在响应layout_behavior事件时作出相应的scrollFlags滚动事件(移除屏幕或固定在屏幕顶端)。
+	http://www.jianshu.com/p/06c0ae8d9a96
+	http://blog.csdn.net/u010687392/article/details/46906657
+
+52.Snackbar是Android Support Design Library库中的一个控件，可以在屏幕底部快速弹出消息，比Toast更加好用。本文对原生Snackbar进行了修改，使其更加灵活。
+	http://www.jianshu.com/p/cd1e80e64311
+
+53.https://www.uplabs.com/
