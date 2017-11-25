@@ -36,6 +36,7 @@
 18.fastJson
 
 19.okHttp   http://www.cnblogs.com/baiqiantao/p/a6b3d5eb5c6bf3f3bece9281ac127d86.html
+http://www.jianshu.com/p/4c17956fe3b4
 
 20.下拉刷新上拉加载 http://mp.weixin.qq.com/s/TE1XOXPTYTWHdkZ95amTGw
 
@@ -116,4 +117,8 @@
 46.retrofit网络请求框架  http://www.jianshu.com/p/a7635e39c5ac
 
 47.微信公众号开发模板   http://jqweui.com/
+
+48.NineGridView   
+	类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。
+https://github.com/jeasonlzy/NineGridView
 
