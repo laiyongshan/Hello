@@ -126,7 +126,8 @@ https://github.com/jeasonlzy/NineGridView
 
 	https://github.com/jeasonlzy/okhttp-OkGo
 
-50.Material Design
+50.Material Design 设计规范
+	http://design.1sters.com/material_design/patterns/gestures.html
 
 51. Materrial Design CollapsingToolbarLayout  
    作用是提供了一个可以折叠的Toolbar，它继承至FrameLayout，给它设置layout_scrollFlags，它可以控制包含在CollapsingToolbarLayout中的控件(如：ImageView、Toolbar)在响应layout_behavior事件时作出相应的scrollFlags滚动事件(移除屏幕或固定在屏幕顶端)。
