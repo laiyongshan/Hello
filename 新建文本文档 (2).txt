@@ -138,3 +138,7 @@ https://github.com/jeasonlzy/NineGridView
 	http://www.jianshu.com/p/cd1e80e64311
 
 53.https://www.uplabs.com/
+
+54.主流的数据库框架
+
+55.Android 设计规范
