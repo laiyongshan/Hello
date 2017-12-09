@@ -134,6 +134,7 @@ https://github.com/jeasonlzy/NineGridView
    作用是提供了一个可以折叠的Toolbar，它继承至FrameLayout，给它设置layout_scrollFlags，它可以控制包含在CollapsingToolbarLayout中的控件(如：ImageView、Toolbar)在响应layout_behavior事件时作出相应的scrollFlags滚动事件(移除屏幕或固定在屏幕顶端)。
 	http://www.jianshu.com/p/06c0ae8d9a96
 	http://blog.csdn.net/u010687392/article/details/46906657
+	https://github.com/wasabeef/awesome-android-ui	
 
 52.Snackbar是Android Support Design Library库中的一个控件，可以在屏幕底部快速弹出消息，比Toast更加好用。本文对原生Snackbar进行了修改，使其更加灵活。
 	http://www.jianshu.com/p/cd1e80e64311
@@ -155,3 +156,6 @@ https://github.com/jeasonlzy/NineGridView
 57.ViewSwitcher
 
 58.RxAndroid   http://www.jianshu.com/p/6d1ef9f43cdc
+		
+59.圆形百分比progressbar 
+	https://github.com/Shinelw/ColorArcProgressBar
