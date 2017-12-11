@@ -112,6 +112,7 @@ http://www.jianshu.com/p/4c17956fe3b4
 
 45.mvvmÄ£Ê½  https://github.com/chiclaim/awesome-android-mvvm
 		http://blog.csdn.net/johnny901114/article/details/50706329
+		http://blog.csdn.net/u013263323/article/details/64124073
 
 
 46.retrofitÍøÂçÇëÇó¿ò¼Ü  http://www.jianshu.com/p/a7635e39c5ac
