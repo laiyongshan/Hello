@@ -63,7 +63,10 @@ http://www.jianshu.com/p/4c17956fe3b4
 
 29.Evenbus(事件总线 用于组件或线程通信,可替代回调,广播等)
 
-30.BaseRecyclerView   https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+30.BaseRecyclerView   
+	https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+
+
 
 31.ARCore
 
@@ -162,6 +165,14 @@ https://github.com/jeasonlzy/NineGridView
 	https://github.com/Shinelw/ColorArcProgressBar
 
 60. FlycoDialog-Matser 
-
+	
 61.NavigationTabBar  
 	https://github.com/Devlight/NavigationTabBar
+
+62.友盟
+	应用统计
+	分享
+	第三方登录
+	消息推送
+
+
