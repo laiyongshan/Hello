@@ -84,6 +84,7 @@ http://www.jianshu.com/p/4c17956fe3b4
 
 	http://blog.csdn.net/u014120638/article/details/53887286
 	http://blog.csdn.net/u014120638/article/details/53887286
+	http://blog.csdn.net/jsonnan/article/details/62215287
 
 36.分享一部Android高级NDK教程。不用谢！链接：http://pan.baidu.com/s/1c2tUs8K 
 
