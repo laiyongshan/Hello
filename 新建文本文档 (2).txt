@@ -185,3 +185,5 @@ https://github.com/jeasonlzy/NineGridView
 65.FreeLine实现Android的秒级编译
 
 66.友盟打点 
+	导入ShareSDK模块时报：Execution failed for task ':app:transformClassesWithMultidexlistForDebug'.
+	错误，删除v4支持包
