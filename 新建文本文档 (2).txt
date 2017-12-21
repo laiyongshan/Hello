@@ -187,3 +187,6 @@ https://github.com/jeasonlzy/NineGridView
 66.友盟打点 
 	导入ShareSDK模块时报：Execution failed for task ':app:transformClassesWithMultidexlistForDebug'.
 	错误，删除v4支持包
+
+67.android 直播 http://blog.csdn.net/mr_sk/article/details/71083366
+	https://cloud.tencent.com/document/product/268/7658
