@@ -199,3 +199,6 @@ https://github.com/jeasonlzy/NineGridView
 
 71.Android 第三方库合集
 	http://blog.csdn.net/u011507982/article/details/51241483
+
+72.完美解决Android 6.0以上动态权限申请问题
+	https://github.com/holidaycheck/Permissify
