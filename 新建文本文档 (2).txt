@@ -193,3 +193,9 @@ https://github.com/jeasonlzy/NineGridView
 
 69.基于Material Design Support Library的一个小Demo，这个Demo会慢慢的去完善，不仅仅是一个基于MD的Demo。里面会含有各种工具类，通用的一些Aadpter以及一些组件等。Android自定义View之高仿QQ健康
 	https://github.com/burgessjp/MaterialDesignDemo
+
+70.25个android 第三方库
+	http://blog.csdn.net/crazy1235/article/details/55805071
+
+71.Android 第三方库合集
+	http://blog.csdn.net/u011507982/article/details/51241483
