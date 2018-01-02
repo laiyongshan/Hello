@@ -211,3 +211,6 @@ https://github.com/jeasonlzy/NineGridView
 
 76.阿里开源的VLayout
 	https://github.com/alibaba/vlayout
+
+77.boxing-master 哔哩哔哩图片选择器，包含图片单选，多选，选择后剪裁，视频选择
+	https://github.com/Bilibili/boxing
