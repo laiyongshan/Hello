@@ -217,4 +217,8 @@ https://github.com/jeasonlzy/NineGridView
 
 78.XEditText 带删除功能的EditText；显示或者隐藏密码；可设置自动添加分隔符分割电话号码、银行卡号等；支持禁止Emoji表情符号输入。
 
-79.
+79.XStateController StateController顾名思义：状态控制机，用作几个状态的切换。该控件可以在Loading & Empty & Error& Content四个状态的自定义动画切换。
+	https://github.com/limedroid/XStateController
+
+80.Android Crash框架Recovery
+	https://github.com/Sunzxyong/Recovery
