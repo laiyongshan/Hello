@@ -222,3 +222,6 @@ https://github.com/jeasonlzy/NineGridView
 
 80.Android CrashøÚº‹Recovery
 	https://github.com/Sunzxyong/Recovery
+
+81.Ï≈ø·Loading
+	com.wang.avi:library:2.1.3
