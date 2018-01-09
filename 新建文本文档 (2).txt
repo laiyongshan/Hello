@@ -237,3 +237,6 @@ https://github.com/jeasonlzy/NineGridView
 
 85.android各种各样的跑马灯样式
 	compile 'com.sunfusheng:marqueeview:1.3.2'
+
+86.第三方Dialog库：
+	http://blog.csdn.net/ss1168805219/article/details/54954427
