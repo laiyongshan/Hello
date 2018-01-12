@@ -300,3 +300,7 @@ https://github.com/jeasonlzy/NineGridView
 11-29 14:37:03.155: D/AppListFragment(7649): onDestroyView
 11-29 14:37:03.165: D/AppListFragment(7649): onDestroy
 11-29 14:37:03.165: D/AppListFragment(7649): onDetach
+
+90.图片缩放点击放大查看的控件 PhotoView
+	https://github.com/chrisbanes/PhotoView
+
