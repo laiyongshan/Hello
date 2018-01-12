@@ -247,3 +247,9 @@ https://github.com/jeasonlzy/NineGridView
 	3).singleTask 只有一个实例。在同一个应用程序中启动他的时候，若Activity不存在，则会在当前task创建一个新的实例，若存在，则会把task中在其之上的其它Activity destory掉并调用它的onNewIntent方法。
 	4).singleInstance 
 		只有一个实例，并且这个实例独立运行在一个task中，这个task只有这个实例，不允许有别的Activity存在。
+
+
+87.ZBanner是一个真正的轮播控件，并非ViewPager的简单改造。
+	https://github.com/likeadog/ZBanner
+
+88.Fragment的懒加载
