@@ -303,4 +303,4 @@ https://github.com/jeasonlzy/NineGridView
 
 90.图片缩放点击放大查看的控件 PhotoView
 	https://github.com/chrisbanes/PhotoView
-
+	https://github.com/bm-x/PhotoView
