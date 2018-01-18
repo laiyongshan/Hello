@@ -311,3 +311,20 @@ https://github.com/jeasonlzy/NineGridView
 
 92.NumberButton 
 	自定义组件：购物车商品数量、增加和减少控制按钮。 说明： 可以定义最大库存、当前数量、最大购买数量 可以打开或关闭数量输入 可以按钮和输入框的宽度 使用 引入 compile 'ren.qinc.numberbutton:numberbutton:0.0.1' 
+
+93.
+https://github.com/wenchaosong/OCR_identify 
+
+   身份证和银行卡识别
+
+https://github.com/zhouxu88/OCRDemo 
+
+    身份证和银行卡识别
+
+https://github.com/duaiyun1314/BankCardScanner 
+
+   银行卡识别
+
+https://github.com/daheicode/OCRDemo 
+
+ 身份证识别
