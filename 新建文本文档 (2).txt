@@ -308,3 +308,6 @@ https://github.com/jeasonlzy/NineGridView
 91.Log框架 Logger
 	简单，漂亮，强大的Android日志工具
 	https://github.com/orhanobut/logger
+
+92.NumberButton 
+	自定义组件：购物车商品数量、增加和减少控制按钮。 说明： 可以定义最大库存、当前数量、最大购买数量 可以打开或关闭数量输入 可以按钮和输入框的宽度 使用 引入 compile 'ren.qinc.numberbutton:numberbutton:0.0.1' 
