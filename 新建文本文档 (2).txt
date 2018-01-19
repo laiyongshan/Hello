@@ -342,3 +342,6 @@ https://github.com/daheicode/OCRDemo
 
 97.手机相关工具类
 	https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/src/main/java/com/blankj/utilcode/util/PhoneUtils.java
+
+98.Material Design风格的登录和注册页面
+	https://github.com/sourcey/materiallogindemo
