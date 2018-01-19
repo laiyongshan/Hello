@@ -333,3 +333,6 @@ https://github.com/daheicode/OCRDemo
 	https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824818&idx=1&sn=fe725d052c98f505b0b09e16c70f4053&chksm=80b7b4ecb7c03dfa6893bef28230d1bca876c889328c8e50ae0db31985020c58fad59f42048a&mpshare=1&scene=23&srcid=0118r8xJreDLCQJgOX6gtGCQ#rd
 
 	github:https://github.com/renjianan/SimpleBrowser
+
+95.Github开源控件合集
+	https://www.cnblogs.com/chenxibobo/p/6897822.html
