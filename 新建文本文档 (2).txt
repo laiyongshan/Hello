@@ -336,3 +336,6 @@ https://github.com/daheicode/OCRDemo
 
 95.Github开源控件合集
 	https://www.cnblogs.com/chenxibobo/p/6897822.html
+
+96.gif图播放控件
+	https://github.com/sbakhtiarov/gif-movie-view
