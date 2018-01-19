@@ -339,3 +339,6 @@ https://github.com/daheicode/OCRDemo
 
 96.gif图播放控件
 	https://github.com/sbakhtiarov/gif-movie-view
+
+97.手机相关工具类
+	https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/src/main/java/com/blankj/utilcode/util/PhoneUtils.java
