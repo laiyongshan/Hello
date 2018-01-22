@@ -345,3 +345,8 @@ https://github.com/daheicode/OCRDemo
 
 98.Material Design风格的登录和注册页面
 	https://github.com/sourcey/materiallogindemo
+
+99.NiceSpinner 简单实用的好看的Spinner
+
+100.Android 视频压缩
+	https://github.com/wuxiaoqiang625/VideoCompress
