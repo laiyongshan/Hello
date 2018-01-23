@@ -356,3 +356,5 @@ https://github.com/daheicode/OCRDemo
 
 102.Logger 日志开源框架
 	https://github.com/orhanobut/logger
+
+103.阿里云热修复技术Sophix的快速接入
