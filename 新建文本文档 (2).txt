@@ -371,3 +371,12 @@ https://github.com/daheicode/OCRDemo
 
 107.各种字体简单使用
 	https://github.com/chrisjenx/Calligraphy
+
+108.ARouter的路径至少两级，需要传递数据是需要inject().
+
+109.遇到AS3.0 annotationProcessor错误，
+	http://blog.csdn.net/keep_holding_on/article/details/76188657
+
+110.九宫格图片展示
+	http://blog.csdn.net/zhangyulin311/article/details/51433321、
+	https://github.com/laobie/NineGridImageView
