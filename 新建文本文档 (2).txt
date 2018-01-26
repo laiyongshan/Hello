@@ -380,3 +380,6 @@ https://github.com/daheicode/OCRDemo
 110.九宫格图片展示
 	http://blog.csdn.net/zhangyulin311/article/details/51433321、
 	https://github.com/laobie/NineGridImageView
+
+111.Android 7.0带来的新的工具类DiffUtil 他是为recycleview的数据变化提供数据对比的工具类。 
+	http://blog.csdn.net/qq_25867141/article/details/52769332
