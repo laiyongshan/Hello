@@ -1,0 +1,20 @@
+svn账号：
+
+	用户名：laiysh
+	密码：laiysh@149687
+
+	svnUrl:https://win-q48u0lmvp75/svn/SuncereAndroidApp
+
+
+工时OA
+	用户名：laiys
+	密码：lai123456（请及时修改）
+	网址：http://202.104.69.206:8085/login.xhtml
+	手机网址：
+
+
+
+
+企业邮箱
+	地址：http://exmail.qq.com/login
+	邮箱：laiys@suncereltd.com                                                                                                                                 	密码：Lai123456（区分大小写，首次登陆需要修改激活）
