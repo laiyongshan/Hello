@@ -383,3 +383,6 @@ https://github.com/daheicode/OCRDemo
 
 111.Android 7.0带来的新的工具类DiffUtil 他是为recycleview的数据变化提供数据对比的工具类。 
 	http://blog.csdn.net/qq_25867141/article/details/52769332
+
+112.一个查看内存是否泄漏的工具LeakCanary，并通过研究源码明白它是如何分析和查找存在泄漏信息的 
+	https://blog.csdn.net/u012304076/article/details/79661822
