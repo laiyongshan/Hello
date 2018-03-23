@@ -18,3 +18,11 @@ svn账号：
 企业邮箱
 	地址：http://exmail.qq.com/login
 	邮箱：laiys@suncereltd.com                                                                                                                                 	密码：Lai123456（区分大小写，首次登陆需要修改激活）
+
+
+Bug测试系统
+	地址：http://10.10.10.21:6060/pts/ProjectList.aspx
+	账号：赖永善
+	密码：123456
+
+	
