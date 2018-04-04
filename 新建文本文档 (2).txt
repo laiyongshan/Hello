@@ -386,3 +386,5 @@ https://github.com/daheicode/OCRDemo
 
 112.一个查看内存是否泄漏的工具LeakCanary，并通过研究源码明白它是如何分析和查找存在泄漏信息的 
 	https://blog.csdn.net/u012304076/article/details/79661822
+
+113.桌面图标角标：me.leolin:ShortcutBadger:1.1.21@aar
