@@ -388,3 +388,8 @@ https://github.com/daheicode/OCRDemo
 	https://blog.csdn.net/u012304076/article/details/79661822
 
 113.桌面图标角标：me.leolin:ShortcutBadger:1.1.21@aar
+
+114.一个不错的博客： http://blog.coderclock.com/archives/
+
+115.强大的RecyclerView粘性头部 https://github.com/oubowu/StickyItemDecoration
+	https://github.com/laiyongshan/PinnedSectionItemDecoration
