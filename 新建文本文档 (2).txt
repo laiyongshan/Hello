@@ -393,3 +393,9 @@ https://github.com/daheicode/OCRDemo
 
 115.强大的RecyclerView粘性头部 https://github.com/oubowu/StickyItemDecoration
 	https://github.com/laiyongshan/PinnedSectionItemDecoration
+
+116.CompressTools-Android无损压缩图片，底层压缩   
+		compile 'com.jaywei:compresstool:1.2.0'
+
+117.AndroidTools 一个库包含了各种工具，简单调用使用
+	https://github.com/mazouri/AndroidTools
