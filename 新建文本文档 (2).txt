@@ -399,3 +399,17 @@ https://github.com/daheicode/OCRDemo
 
 117.AndroidTools 一个库包含了各种工具，简单调用使用
 	https://github.com/mazouri/AndroidTools
+
+118.组件化开发：就是将一个app分成多个Module，每个Module都是一个组件(也可以是一个基础库供组件依赖)，开发的过程中我们可以单独调试部分组件，组件间不需要互相依赖，但可以相互调用，最终发布的时候所有组件以lib的形式被主app工程依赖并打包成1个apk。
+	https://blog.csdn.net/cdecde111/article/details/78705386
+
+    插件化开发：和组件化开发略有不同，插件化开发时将整个app拆分成很多模块，这些模块包括一个宿主和多个插件，每个模块都是一个apk（组件化的每个模块是个lib），最终打包的时候将宿主apk和插件apk(或其他格式)分开或者联合打包。
+	https://github.com/jasonliyihang/speed_tools
+
+119.TextPathView是一个把文字转化为路径动画然后展现出来的自定义控件
+	https://github.com/totond/TextPathView
+
+120.圆角布局 http://www.gcssloop.com/tools/rclayout?utm_source=gank.io%2Fxiandu&utm_medium=website
+
+121.Android 7.0 行为变更 通过FileProvider在应用间共享文件吧 
+	http://blog.csdn.net/lmj623565791/article/details/72859156?utm_source=gank.io%2Fxiandu&utm_medium=website
