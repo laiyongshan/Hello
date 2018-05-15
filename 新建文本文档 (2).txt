@@ -419,3 +419,6 @@ https://github.com/daheicode/OCRDemo
 123.Í¼Æ¬Ñ¡ÔñÆ÷
 	https://github.com/LuckSiege/PictureSelector
 	https://segmentfault.com/a/1190000004263541?_ea=549747
+
+124.¼tüc https://github.com/wolfking0608/BadgeView
+	 compile 'q.rorbin:badgeview:1.1.2'
