@@ -422,3 +422,9 @@ https://github.com/daheicode/OCRDemo
 
 124.紅點 https://github.com/wolfking0608/BadgeView
 	 compile 'q.rorbin:badgeview:1.1.2'
+
+125.Android开源项目整合（三）---- dialog
+	https://blog.csdn.net/yymonkeydo/article/details/49950241
+
+126.Github项目解析（十一）-->一个简单，强大的自定义广告活动弹窗
+	https://github.com/yipianfengye/android-adDialog
