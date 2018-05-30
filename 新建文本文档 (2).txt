@@ -396,6 +396,7 @@ https://github.com/daheicode/OCRDemo
 
 116.CompressTools-Android无损压缩图片，底层压缩   
 		compile 'com.jaywei:compresstool:1.2.0'
+		https://github.com/lexluthors/CompressTools-Android
 
 117.AndroidTools 一个库包含了各种工具，简单调用使用
 	https://github.com/mazouri/AndroidTools
