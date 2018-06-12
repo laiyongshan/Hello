@@ -431,3 +431,5 @@ https://github.com/daheicode/OCRDemo
 	https://github.com/yipianfengye/android-adDialog
 
 127.¶à×´Ì¬layoutÇÐ»»£ºhttps://www.jianshu.com/p/7c7bf4093109
+ 
+128.²å¼þ»¯  https://www.jianshu.com/p/353514d315a7
