@@ -437,3 +437,5 @@ https://github.com/daheicode/OCRDemo
 129.Hotel-Date-Select
 	仿美团酒店预订日期选择
 	https://github.com/laiyongshan/CalendarDemo
+
+130.简单的应用更新库 https://github.com/czy1121/update
