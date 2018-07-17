@@ -446,3 +446,9 @@ https://github.com/daheicode/OCRDemo
 
 133.RxTools 一个十分强大的工具集合，值得参考
 	https://github.com/vondear/RxTool/wiki/RxTool-Wiki
+
+134.Activity 切换动画效果 https://github.com/jaychou2012/SwitchLayout
+
+135.带数字的进度条 NumberProgressBar   https://github.com/daimajia/NumberProgressBar
+
+136.更全面的开源项目分类汇总 https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98
