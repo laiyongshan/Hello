@@ -442,7 +442,6 @@ https://github.com/daheicode/OCRDemo
 
 131.强大的第三方Dialog https://github.com/H07000223/FlycoDialog_Master
 
-132.可以使用XWalkView代替webView
 
 133.RxTools 一个十分强大的工具集合，值得参考
 	https://github.com/vondear/RxTool/wiki/RxTool-Wiki
@@ -473,3 +472,8 @@ ASYNC 表示无论事件发布的线程是哪一个，事件处理函数始终会新建一个子线程运行，同样
 
 139.2018年最新的30个酷炫的Android库
 	https://blog.csdn.net/chuchun_langye/article/details/78308954
+
+
+140.插件化开发
+	Replugin   https://github.com/Qihoo360/RePlugin/releases
+	自己github上的Demo:https://github.com/laiyongshan/RePluginDemo		
