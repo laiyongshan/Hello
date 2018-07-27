@@ -26,10 +26,16 @@ Bug测试系统
 	密码：123456
 
 	
-开发环境SHA1:
+android key1  SHA1:
 	
 	发布：  3D:E7:75:31:F7:35:5A:4B:2D:74:F6:CA:81:F3:3D:A2:4F:97:BA:C4
 	调试： 0A:BF:24:66:9D:5D:A0:88:B2:58:9A:51:47:D3:5F:4F:6E:EB:DF:C4
+
+android key3  SHA1:
+	发布：F6:A8:DE:FE:DC:9E:B9:27:57:2A:77:DF:97:0B:E3:68:C5:C7:1F:5A
+	调试：0A:BF:24:66:9D:5D:A0:88:B2:58:9A:51:47:D3:5F:4F:6E:EB:DF:C4
+
+
 
 
 旭诚科技wifi密码：
