@@ -421,7 +421,7 @@ https://github.com/daheicode/OCRDemo
 	https://github.com/LuckSiege/PictureSelector
 	https://segmentfault.com/a/1190000004263541?_ea=549747
 
-124.紅點 https://github.com/wolfking0608/BadgeView
+124.红点 https://github.com/wolfking0608/BadgeView
 	 compile 'q.rorbin:badgeview:1.1.2'
 
 125.Android开源项目整合（三）---- dialog
@@ -486,4 +486,6 @@ ASYNC 表示无论事件发布的线程是哪一个，事件处理函数始终会新建一个子线程运行，同样
 
 143.TakePhoto是一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库，目前最新版本4.1.0。 3.0以下版本及API说明，详见TakePhoto2.0+。
 	https://github.com/crazycodeboy/TakePhoto
+
+144.Android 6.0. 7.8.9适配 https://www.jianshu.com/p/a8fd3d1fa0a3
 
