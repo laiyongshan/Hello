@@ -489,3 +489,6 @@ ASYNC 表示无论事件发布的线程是哪一个，事件处理函数始终会新建一个子线程运行，同样
 
 144.Android 6.0. 7.8.9适配 https://www.jianshu.com/p/a8fd3d1fa0a3
 
+145.好用的富文本框架：https://blog.csdn.net/Life_s/article/details/80706940
+	implementation 'com.zzhoujay.richtext:richtext:3.0.7'
+
