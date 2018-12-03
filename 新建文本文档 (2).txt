@@ -492,3 +492,25 @@ ASYNC 表示无论事件发布的线程是哪一个，事件处理函数始终会新建一个子线程运行，同样
 145.好用的富文本框架：https://blog.csdn.net/Life_s/article/details/80706940
 	implementation 'com.zzhoujay.richtext:richtext:3.0.7'
 
+146.链接：https://pan.baidu.com/s/1q2LQ8oUWZD2vcv8y9ZOCEA 
+提取码：3qfb 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+2018动力节点全套视频更新完成，百G教程免费提供下载
+自学一样拿高薪！
+[图片][图片]http://www.bjpowernode.com/video.html#aaa_10/?1106
+【Java零基础必备视频教程】
+链接：https://pan.baidu.com/s/17JKIHh6cfqkzvR2tf3Y_gg 
+提取码：q2j4 
+【Linux,MySQL,JDBC】
+万千老学员倾情推荐！技术交流群 773820143
+链接：https://pan.baidu.com/s/1lWLVDxDhGZTewHbmh_i1-w 
+提取码：jufs 
+【SpringBoot、Dubbo、Redis】
+链接：https://pan.baidu.com/s/1huP1LOhVXDM0uyM5fhw36Q 
+提取码：r04y 
+【EGOV项目、二手车项目】
+链接：https://pan.baidu.com/s/1dItAPlR-gSTL9t_yhw5EQw 
+提取码：5slk 
+万千老学员倾情推荐！ 技术交流群773820143
+
+
