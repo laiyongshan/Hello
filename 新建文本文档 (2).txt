@@ -515,3 +515,11 @@ ASYNC 表示无论事件发布的线程是哪一个，事件处理函数始终会新建一个子线程运行，同样
 
 
 147.uni-app 教学视频：http://www.hcoder.net/tutorials/info/id/1339
+
+
+
+148.https://blog.csdn.net/D29h1jQy3akVx/article/details/78851240
+
+149.全面屏手机适配  https://blog.csdn.net/xu_coding/article/details/82889782
+
+150.全面屏、刘海屏手机适配  https://blog.csdn.net/zane_xiao/article/details/81781723
