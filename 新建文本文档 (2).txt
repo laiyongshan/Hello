@@ -523,3 +523,7 @@ ASYNC 表示无论事件发布的线程是哪一个，事件处理函数始终会新建一个子线程运行，同样
 149.全面屏手机适配  https://blog.csdn.net/xu_coding/article/details/82889782
 
 150.全面屏、刘海屏手机适配  https://blog.csdn.net/zane_xiao/article/details/81781723
+
+151.https://www.jianshu.com/p/b8e62251eabc android 8.0适配
+
+152.二级联动列表 https://github.com/zhouzhuo810/ZzSecondaryLinkage
