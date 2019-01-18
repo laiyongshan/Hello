@@ -527,3 +527,25 @@ ASYNC 表示无论事件发布的线程是哪一个，事件处理函数始终会新建一个子线程运行，同样
 151.https://www.jianshu.com/p/b8e62251eabc android 8.0适配
 
 152.二级联动列表 https://github.com/zhouzhuo810/ZzSecondaryLinkage
+
+153.权限申请：compile 'com.tbruyelle.rxpermissions:rxpermissions:0.9.4@aar'
+	    compile 'io.reactivex:rxandroid:1.2.0'
+	 compile 'io.reactivex:rxjava:1.2.9'
+
+	exmple:
+
+public void getPermission() {
+        RxPermissions rxPermissions = new RxPermissions(this);
+        rxPermissions.request(WRITE_EXTERNAL_STORAGE)
+                .subscribe(new Action1<Boolean>() {
+                    @Override
+                    public void call(Boolean aBoolean) {
+                        if (aBoolean) {
+                            Toast.makeText(MainActivity.this, "已授权", Toast.LENGTH_SHORT).show();
+                        } else {
+                            Toast.makeText(MainActivity.this, "未授权", Toast.LENGTH_SHORT).show();
+                        }
+                    }
+                });
+
+    }
