@@ -549,3 +549,11 @@ public void getPermission() {
                 });
 
     }
+
+154.https://www.heweather.com/ 和风天气 天气预报接口
+
+155.vue 使用图表插件 https://blog.csdn.net/gqzydh/article/details/81126181
+
+156.解决e_charts x轴可滑动 Y轴固定的问题 	https://blog.csdn.net/Arbort_/article/details/80884789	
+
+157.HolleCharts https://www.cnblogs.com/huolongluo/p/5988644.html 具体使用
