@@ -565,3 +565,13 @@ public void getPermission() {
 3、手机厂商为了提升系统性能，对应用进程进行管制，在应用退到后台后就将进程杀死，导致应用级的推送长连接断开。我们vip有部分手机厂商通道（小米华为魅族FCM），在进程杀死的情况下，会走手机系统通道下发消息，保证送达。
 
 	
+159.安卓8.0后通知栏Notification   
+https://mp.weixin.qq.com/s?__biz=MzU3ODg0NjkxMw==&mid=2247483674&idx=1&sn=21d697075cc4d6c6fc456359a9c1e745&chksm=fd6e68b4ca19e1a2836c063a284ab314f0f4347f739b3ad49e71b923313e2e9f97f1a4f218f1&token=522679735&lang=zh_CN#rd
+
+
+160.Android7.0版本后 Uri和文件路径互相转换封装类，实现系统分享功能及 FileProvider详细解析和踩坑指南 
+	https://mp.weixin.qq.com/s?__biz=MzU3ODg0NjkxMw==&mid=2247483668&idx=1&sn=692b436f80608e4f1529725f9b464f3a&chksm=fd6e68baca19e1accbffc7526775da2b880ac1de13bb49e347343c08f82822b2eb4b08f25a5b&token=522679735&lang=zh_CN#rd
+
+161.HTML5 中国产业联盟      
+
+https://www.html5plus.org/doc/zh_cn/share.html#plus.share.ShareService.launchMiniProgram
