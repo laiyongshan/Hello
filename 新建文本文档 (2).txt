@@ -575,3 +575,7 @@ https://mp.weixin.qq.com/s?__biz=MzU3ODg0NjkxMw==&mid=2247483674&idx=1&sn=21d697
 161.HTML5 中国产业联盟      
 
 https://www.html5plus.org/doc/zh_cn/share.html#plus.share.ShareService.launchMiniProgram
+
+
+162.仿IOS加载框  https://github.com/laiyongshan/LoadingDialog
+	带加载成功失败效果的加载框：https://www.jianshu.com/p/291756fae255
