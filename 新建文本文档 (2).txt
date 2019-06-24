@@ -596,3 +596,6 @@ Re-download dependencies and sync project (requires network)
 Re-download dependencies and sync project (requires network)
 这种错误，请尝试下面这种方法
 http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
+
+166. 最简单方便快捷的App更新解决方案
+	https://github.com/laiyongshan/updateapk
