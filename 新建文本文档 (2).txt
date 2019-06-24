@@ -584,3 +584,15 @@ https://www.html5plus.org/doc/zh_cn/share.html#plus.share.ShareService.launchMin
 	https://developer.huawei.com/consumer/cn/service/hms/catalog/huaweipush_agent.html?page=hmssdk_huaweipush_devguide_client_agent
 
 164.各种酷炫实用UI效果  https://www.jianshu.com/p/8dd531b842b8
+
+165.
+出现：
+Error:Failed to open zip file.
+
+Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)
+
+Re-download dependencies and sync project (requires network)
+
+Re-download dependencies and sync project (requires network)
+这种错误，请尝试下面这种方法
+http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
