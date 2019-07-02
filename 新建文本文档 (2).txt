@@ -599,3 +599,6 @@ http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
 
 166. 最简单方便快捷的App更新解决方案
 	https://github.com/laiyongshan/updateapk
+
+167.简单好用的动态权限申请 
+	https://www.jianshu.com/p/2b9722340981
