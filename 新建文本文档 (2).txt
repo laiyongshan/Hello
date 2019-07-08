@@ -55,7 +55,8 @@ http://www.jianshu.com/p/4c17956fe3b4
 
 25. xUtils框架使用（注解模块，网络模块，图片加载模块，数据库模块。）http://www.jb51.net/article/89784.htm
 
-26.Matisse(是一款由知乎开源的媒体选择器)  https://github.com/zhihu/Matisse   http://blog.csdn.net/qiaoshi96_bk/article/details/76164913
+26.Matisse(是一款由知乎开源的媒体选择器)  https://github.com/zhihu/Matisse
+	好用但不具备裁剪功能
 
 27.Glide&&Picasso 图片加载开源库
 
@@ -602,3 +603,11 @@ http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
 
 167.简单好用的动态权限申请 
 	https://www.jianshu.com/p/2b9722340981
+	
+	“'com.tbruyelle.rxpermissions2:rxpermissions:0.9.5@aar”
+	“io.reactivex.rxjava2:rxjava:2.1.9”
+
+168.Android 开发工具 https://www.androiddevtools.cn/?tdsourcetag=s_pctim_aiomsg
+
+168.Glide 图片圆形或圆角
+	https://www.jianshu.com/p/5c54046d2b1c
