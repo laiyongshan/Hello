@@ -55,7 +55,7 @@ android key3  SHA1:
 
 ÌÚÑ¶BuglyÕËºÅ£º
 	QQ£º2401642485
-	ÃÜÂë£ºsuncere010203
+	ÃÜÂë£ºsuncere123456
 
 
 
