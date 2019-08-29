@@ -611,3 +611,6 @@ http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
 
 168.Glide 图片圆形或圆角
 	https://www.jianshu.com/p/5c54046d2b1c
+
+169.EditText点击不弹出软键盘的解决办法：
+	adjustPan|stateAlwaysVisible
