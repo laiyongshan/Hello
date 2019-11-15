@@ -614,3 +614,13 @@ http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
 
 169.EditText点击不弹出软键盘的解决办法：
 	adjustPan|stateAlwaysVisible
+
+170.https://gitee.com/fuyang_lipengjun/platform  减少重复造轮子，开源微信小程序商城 (前后台开源)
+
+171、 调用系统原生分享功能 https://www.jianshu.com/p/9522e24713e1
+
+172、面试题分享
+	https://juejin.im/post/5da16523e51d45780931efb5?tdsourcetag=s_pctim_aiomsg
+
+173.Kotlin写商城App MVP基础框架
+	https://github.com/laiyongshan/KotlinMall

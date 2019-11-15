@@ -57,6 +57,19 @@ android key3  SHA1:
 	QQ：2401642485
 	密码：suncere123456
 
+Mob账号：
+	账号：18664836049
+	密码：suncere123456
+
+宜春环境空气质量：
+	APPID：wx62f32f355acdd47e
+	AppSecret: fb0271d5440ea880a4e531a95e128f45
+
+广元：
+wx683f97915211582d
+c1d8be442f369f801596b29434355b45
+
+
 
 
 空气质量标准色：
