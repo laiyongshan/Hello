@@ -624,3 +624,11 @@ http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
 
 173.Kotlin写商城App MVP基础框架
 	https://github.com/laiyongshan/KotlinMall
+
+174. scrollView   自动滚动到顶部的问题  
+，就是在scrollview里面的第一个控件，设置
+android:focusable="true"    android:focusableInTouchMode="true"
+
+175.抱歉， Xposed真的可以为所欲为   https://github.com/android-hacker/VirtualXposed/releases/tag/0.18.0
+
+https://blog.csdn.net/coder_pig/article/details/80031285
