@@ -632,3 +632,9 @@ android:focusable="true"    android:focusableInTouchMode="true"
 175.抱歉， Xposed真的可以为所欲为   https://github.com/android-hacker/VirtualXposed/releases/tag/0.18.0
 
 https://blog.csdn.net/coder_pig/article/details/80031285
+
+
+176.比较炫酷和流行的Bottom-navigation-bar
+		https://github.com/Ashok-Varma/BottomNavigation
+
+177.SnackBar  https://github.com/guoyoujin/MySnackBar
