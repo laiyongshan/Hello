@@ -643,3 +643,5 @@ https://blog.csdn.net/coder_pig/article/details/80031285
 178.动态修改App桌面图标
 	https://blog.csdn.net/fu908323236/article/details/78813136
 
+179.阿里百川 热修复hotFix  https://baichuan.taobao.com/docs/doc.htm?spm=a3c0d.7629140.0.0.1e7cbe48d88uA4&treeId=234&articleId=106531&docType=1
+
