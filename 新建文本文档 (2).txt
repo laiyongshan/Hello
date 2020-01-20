@@ -632,3 +632,14 @@ android:focusable="true"    android:focusableInTouchMode="true"
 175.抱歉， Xposed真的可以为所欲为   https://github.com/android-hacker/VirtualXposed/releases/tag/0.18.0
 
 https://blog.csdn.net/coder_pig/article/details/80031285
+
+
+176.关于Dagger的详细介绍和解析  https://www.open-open.com/lib/view/open1482201981550.html
+
+
+177.uni-app 学习资料
+	http://www.52res.cn/p_index.html#/
+
+178.动态修改App桌面图标
+	https://blog.csdn.net/fu908323236/article/details/78813136
+
