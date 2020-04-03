@@ -1,35 +1,35 @@
-1.ÓÅÑÅµÄ¹¹½¨AndroidÏîÄ¿Ö®RxAndroid+RetrofitÍøÂçÇëÇó
+1.ä¼˜é›…çš„æ„å»ºAndroidé¡¹ç›®ä¹‹RxAndroid+Retrofitç½‘ç»œè¯·æ±‚
 	http://www.jianshu.com/p/a7635e39c5ac
 
-2.ÓÃButterknife×¢Èë¿ò¼ÜÌá¸ß¿ª·¢Ğ§ÂÊ  http://blog.csdn.net/u012702547/article/details/52194594
+2.ç”¨Butterknifeæ³¨å…¥æ¡†æ¶æé«˜å¼€å‘æ•ˆç‡  http://blog.csdn.net/u012702547/article/details/52194594
 
-3.°²×¿Í¼±êÉè¼Æ²å¼ş
+3.å®‰å“å›¾æ ‡è®¾è®¡æ’ä»¶
 
-4.¸ß±Æ¸ñ²à»¬³éÌë²Ëµ¥FlowingDrawer
+4.é«˜é€¼æ ¼ä¾§æ»‘æŠ½å±‰èœå•FlowingDrawer
 
-5.µ×²¿Tabµ¼º½¿ò¼ÜNavigationTabBar
+5.åº•éƒ¨Tabå¯¼èˆªæ¡†æ¶NavigationTabBar
 
-6.×´Ì¬¼ÓÔØ²¼¾ÖLoadingLayout
+6.çŠ¶æ€åŠ è½½å¸ƒå±€LoadingLayout
 
-7.ToastyĞÅÏ¢ÌáÊ¾¿ò
+7.Toastyä¿¡æ¯æç¤ºæ¡†
 
-8.Ô²ĞÎÍ·ÏñÍ¼Æ¬CircleImageView
+8.åœ†å½¢å¤´åƒå›¾ç‰‡CircleImageView
 
-9.¿ÉÉìËõÍ·²¿×é¼şPullZoomView
+9.å¯ä¼¸ç¼©å¤´éƒ¨ç»„ä»¶PullZoomView
 
-10.Ê¹ÓÃNavigationView½¨Á¢ÁĞ±í²Ëµ¥
+10.ä½¿ç”¨NavigationViewå»ºç«‹åˆ—è¡¨èœå•
 
-11.ÓÃConstraintLayout´òÔì¾­µä×Ô¶¨Òå±êÌâÀ¸
+11.ç”¨ConstraintLayoutæ‰“é€ ç»å…¸è‡ªå®šä¹‰æ ‡é¢˜æ 
 
-12.¹ã¸æÂÖ²¥×é¼şAndroidImageSlider
+12.å¹¿å‘Šè½®æ’­ç»„ä»¶AndroidImageSlider
 
-13.³¬¸öĞÔLoadingÍ¼±êAVLoadingIndicatorView
+13.è¶…ä¸ªæ€§Loadingå›¾æ ‡AVLoadingIndicatorView
 
-14.ÁĞ±íÏÂÀ­Ë¢ĞÂandroid-pulltorefresh
+14.åˆ—è¡¨ä¸‹æ‹‰åˆ·æ–°android-pulltorefresh
 
-15.ÊÖĞ´×Ô´øÉ¾³ı°´Å¥µÄEditText
+15.æ‰‹å†™è‡ªå¸¦åˆ é™¤æŒ‰é’®çš„EditText
 
-16.ìÅÄ¿µÄµÇÂ¼°´Å¥android-process-button\
+16.ç‚«ç›®çš„ç™»å½•æŒ‰é’®android-process-button\
 
 17.Gson   http://blog.csdn.net/axuanqq/article/details/51441590
 
@@ -38,121 +38,121 @@
 19.okHttp   http://www.cnblogs.com/baiqiantao/p/a6b3d5eb5c6bf3f3bece9281ac127d86.html
 http://www.jianshu.com/p/4c17956fe3b4
 
-20.ÏÂÀ­Ë¢ĞÂÉÏÀ­¼ÓÔØ http://mp.weixin.qq.com/s/TE1XOXPTYTWHdkZ95amTGw
+20.ä¸‹æ‹‰åˆ·æ–°ä¸Šæ‹‰åŠ è½½ http://mp.weixin.qq.com/s/TE1XOXPTYTWHdkZ95amTGw
 
-21. Android Â·ÓÉ¿ò¼Ü 
+21. Android è·¯ç”±æ¡†æ¶ 
 
 	http://blog.csdn.net/u011404670/article/details/54883263
 
-	ActivityRouterÖĞ»¹ÊµÏÖÁËÔÚä¯ÀÀÆ÷ÖĞÆô¶¯Ó¦ÓÃµÄ½çÃæ£¬Ö÷ÒªË¼Â·ÊÇÆô¶¯Ò»¸öÍ¸Ã÷activity£¬È»ºóÔÚactivityÖĞ½âÎöurl£¬ÔÙÆô¶¯Ä¿±êactivity¡£	ActivityRouterÒ²Ö§³ÖÖ±½Ó½âÎöhttp£¬´ò¿ªweb½çÃæ
+	ActivityRouterä¸­è¿˜å®ç°äº†åœ¨æµè§ˆå™¨ä¸­å¯åŠ¨åº”ç”¨çš„ç•Œé¢ï¼Œä¸»è¦æ€è·¯æ˜¯å¯åŠ¨ä¸€ä¸ªé€æ˜activityï¼Œç„¶ååœ¨activityä¸­è§£æurlï¼Œå†å¯åŠ¨ç›®æ ‡activityã€‚	ActivityRouterä¹Ÿæ”¯æŒç›´æ¥è§£æhttpï¼Œæ‰“å¼€webç•Œé¢
 	http://blog.csdn.net/wangwangli6/article/details/71375465
 
-22. mui¿ò¼Ü
+22. muiæ¡†æ¶
 
 23. gank.io
 
-24¡¢MVP¼Ü¹¹ https://github.com/ccj659/clean-project-architecture
+24ã€MVPæ¶æ„ https://github.com/ccj659/clean-project-architecture
 
-25. xUtils¿ò¼ÜÊ¹ÓÃ£¨×¢½âÄ£¿é£¬ÍøÂçÄ£¿é£¬Í¼Æ¬¼ÓÔØÄ£¿é£¬Êı¾İ¿âÄ£¿é¡££©http://www.jb51.net/article/89784.htm
+25. xUtilsæ¡†æ¶ä½¿ç”¨ï¼ˆæ³¨è§£æ¨¡å—ï¼Œç½‘ç»œæ¨¡å—ï¼Œå›¾ç‰‡åŠ è½½æ¨¡å—ï¼Œæ•°æ®åº“æ¨¡å—ã€‚ï¼‰http://www.jb51.net/article/89784.htm
 
-26.Matisse(ÊÇÒ»¿îÓÉÖªºõ¿ªÔ´µÄÃ½ÌåÑ¡ÔñÆ÷)  https://github.com/zhihu/Matisse
-	ºÃÓÃµ«²»¾ß±¸²Ã¼ô¹¦ÄÜ
+26.Matisse(æ˜¯ä¸€æ¬¾ç”±çŸ¥ä¹å¼€æºçš„åª’ä½“é€‰æ‹©å™¨)  https://github.com/zhihu/Matisse
+	å¥½ç”¨ä½†ä¸å…·å¤‡è£å‰ªåŠŸèƒ½
 
-27.Glide&&Picasso Í¼Æ¬¼ÓÔØ¿ªÔ´¿â
+27.Glide&&Picasso å›¾ç‰‡åŠ è½½å¼€æºåº“
 
-28.PinnedHeaderItemDecoration £¨Îü¶¥Ğ§¹ûµÄItemDecoration £©
+28.PinnedHeaderItemDecoration ï¼ˆå¸é¡¶æ•ˆæœçš„ItemDecoration ï¼‰
 
-29.Evenbus(ÊÂ¼ş×ÜÏß ÓÃÓÚ×é¼ş»òÏß³ÌÍ¨ĞÅ,¿ÉÌæ´ú»Øµ÷,¹ã²¥µÈ)
+29.Evenbus(äº‹ä»¶æ€»çº¿ ç”¨äºç»„ä»¶æˆ–çº¿ç¨‹é€šä¿¡,å¯æ›¿ä»£å›è°ƒ,å¹¿æ’­ç­‰)
 
 30.BaseRecyclerView   
 	https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 
 31.ARCore
 
-32.¿áìÅ¿ªÔ´µÄUI¿ò¼Ü http://blog.csdn.net/fancylovejava/article/details/45787729/
+32.é…·ç‚«å¼€æºçš„UIæ¡†æ¶ http://blog.csdn.net/fancylovejava/article/details/45787729/
 
-33.shapeÓ¦ÓÃ http://blog.csdn.net/rflyee/article/details/20785495
+33.shapeåº”ç”¨ http://blog.csdn.net/rflyee/article/details/20785495
 
-34. ´ò¿ªQQ,Ö¸¶¨Ä³¸öºÅÂëµÄÁÄÌì½çÃæ
+34. æ‰“å¼€QQ,æŒ‡å®šæŸä¸ªå·ç çš„èŠå¤©ç•Œé¢
 	{
 		String url="mqqwpa://im/chat?chat_type=wpa&uin=501863587";    
 		startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url))); 
 	}
 
-35.ÖÕ¼«´ó¼¯ºÏ 
+35.ç»ˆæå¤§é›†åˆ 
 
 	http://blog.csdn.net/u014120638/article/details/53887286
 	http://blog.csdn.net/u014120638/article/details/53887286
 	http://blog.csdn.net/jsonnan/article/details/62215287
 
-36.·ÖÏíÒ»²¿Android¸ß¼¶NDK½Ì³Ì¡£²»ÓÃĞ»£¡Á´½Ó£ºhttp://pan.baidu.com/s/1c2tUs8K 
+36.åˆ†äº«ä¸€éƒ¨Androidé«˜çº§NDKæ•™ç¨‹ã€‚ä¸ç”¨è°¢ï¼é“¾æ¥ï¼šhttp://pan.baidu.com/s/1c2tUs8K 
 
  
 
  
 
- ÃÜÂë£º55jl
+ å¯†ç ï¼š55jl
 
 
-37.IM¿ª·¢
+37.IMå¼€å‘
 
-38.ÒÆ¶¯Ö§¸¶¿ª·¢
+38.ç§»åŠ¨æ”¯ä»˜å¼€å‘
 
-39.¼¼ÊõÂÛÌ³£ºhttp://wanandroid.com/
+39.æŠ€æœ¯è®ºå›ï¼šhttp://wanandroid.com/
 
-40.ÕÕÆ¬´¦Àí£ºhttps://github.com/googlesamples/android-Camera2Basic
+40.ç…§ç‰‡å¤„ç†ï¼šhttps://github.com/googlesamples/android-Camera2Basic
 		https://github.com/wuhaoyu1990/MagicCamera
 
-41.Lambda±í´ïÊ½
+41.Lambdaè¡¨è¾¾å¼
 
-42.webviewÖĞµ÷ÆğÖ§¸¶½çÃæ
+42.webviewä¸­è°ƒèµ·æ”¯ä»˜ç•Œé¢
 
-43.Í¼Æ¬ÒõÓ° PaletteImageView
+43.å›¾ç‰‡é˜´å½± PaletteImageView
 	https://github.com/DingMouRen/PaletteImageView
 
-44.pythonÅÀ³æ http://ms.csdn.net/geek/192755
+44.pythonçˆ¬è™« http://ms.csdn.net/geek/192755
 	http://cuiqingcai.com/1052.html
 
-45.mvvmÄ£Ê½  https://github.com/chiclaim/awesome-android-mvvm
+45.mvvmæ¨¡å¼  https://github.com/chiclaim/awesome-android-mvvm
 		http://blog.csdn.net/johnny901114/article/details/50706329
 		http://blog.csdn.net/u013263323/article/details/64124073
 
 
-46.retrofitÍøÂçÇëÇó¿ò¼Ü  http://www.jianshu.com/p/a7635e39c5ac
+46.retrofitç½‘ç»œè¯·æ±‚æ¡†æ¶  http://www.jianshu.com/p/a7635e39c5ac
 	http://www.jianshu.com/p/a7635e39c5ac
 
-47.Î¢ĞÅ¹«ÖÚºÅ¿ª·¢Ä£°å   http://jqweui.com/
+47.å¾®ä¿¡å…¬ä¼—å·å¼€å‘æ¨¡æ¿   http://jqweui.com/
 
 48.NineGridView   
-	ÀàËÆQQ¿Õ¼ä£¬Î¢ĞÅÅóÓÑÈ¦£¬Î¢²©Ö÷Ò³µÈ£¬Õ¹Ê¾Í¼Æ¬µÄ¾Å¹¬¸ñ¿Ø¼ş£¬×Ô¶¯¸ù¾İÍ¼Æ¬µÄÊıÁ¿È·¶¨Í¼Æ¬´óĞ¡ºÍ¿Ø¼ş´óĞ¡£¬Ê¹ÓÃAdapterÄ£Ê½ÉèÖÃÍ¼Æ¬£¬¶ÔÍâÌá¹©½Ó¿Ú»Øµ÷£¬Ö§³ÖÈÎÒâµÄÍ¼Æ¬¼ÓÔØ¿ò¼Ü,Èç Glide,ImageLoader,Fresco,xUtils3,Picasso µÈ£¬Ö§³Öµã»÷Í¼Æ¬È«ÆÁÔ¤ÀÀ´óÍ¼¡£
+	ç±»ä¼¼QQç©ºé—´ï¼Œå¾®ä¿¡æœ‹å‹åœˆï¼Œå¾®åšä¸»é¡µç­‰ï¼Œå±•ç¤ºå›¾ç‰‡çš„ä¹å®«æ ¼æ§ä»¶ï¼Œè‡ªåŠ¨æ ¹æ®å›¾ç‰‡çš„æ•°é‡ç¡®å®šå›¾ç‰‡å¤§å°å’Œæ§ä»¶å¤§å°ï¼Œä½¿ç”¨Adapteræ¨¡å¼è®¾ç½®å›¾ç‰‡ï¼Œå¯¹å¤–æä¾›æ¥å£å›è°ƒï¼Œæ”¯æŒä»»æ„çš„å›¾ç‰‡åŠ è½½æ¡†æ¶,å¦‚ Glide,ImageLoader,Fresco,xUtils3,Picasso ç­‰ï¼Œæ”¯æŒç‚¹å‡»å›¾ç‰‡å…¨å±é¢„è§ˆå¤§å›¾ã€‚
 https://github.com/jeasonlzy/NineGridView
 
-49.Okgo ·â×°ÁËOkhttpµÄÍøÂçÇëÇó¿ò¼Ü
+49.Okgo å°è£…äº†Okhttpçš„ç½‘ç»œè¯·æ±‚æ¡†æ¶
 
 	https://github.com/jeasonlzy/okhttp-OkGo
 
-50.Material Design Éè¼Æ¹æ·¶
+50.Material Design è®¾è®¡è§„èŒƒ
 	http://design.1sters.com/material_design/patterns/gestures.html
 
 51. Materrial Design CollapsingToolbarLayout  
-   ×÷ÓÃÊÇÌá¹©ÁËÒ»¸ö¿ÉÒÔÕÛµşµÄToolbar£¬Ëü¼Ì³ĞÖÁFrameLayout£¬¸øËüÉèÖÃlayout_scrollFlags£¬Ëü¿ÉÒÔ¿ØÖÆ°üº¬ÔÚCollapsingToolbarLayoutÖĞµÄ¿Ø¼ş(Èç£ºImageView¡¢Toolbar)ÔÚÏìÓ¦layout_behaviorÊÂ¼şÊ±×÷³öÏàÓ¦µÄscrollFlags¹ö¶¯ÊÂ¼ş(ÒÆ³ıÆÁÄ»»ò¹Ì¶¨ÔÚÆÁÄ»¶¥¶Ë)¡£
+   ä½œç”¨æ˜¯æä¾›äº†ä¸€ä¸ªå¯ä»¥æŠ˜å çš„Toolbarï¼Œå®ƒç»§æ‰¿è‡³FrameLayoutï¼Œç»™å®ƒè®¾ç½®layout_scrollFlagsï¼Œå®ƒå¯ä»¥æ§åˆ¶åŒ…å«åœ¨CollapsingToolbarLayoutä¸­çš„æ§ä»¶(å¦‚ï¼šImageViewã€Toolbar)åœ¨å“åº”layout_behavioräº‹ä»¶æ—¶ä½œå‡ºç›¸åº”çš„scrollFlagsæ»šåŠ¨äº‹ä»¶(ç§»é™¤å±å¹•æˆ–å›ºå®šåœ¨å±å¹•é¡¶ç«¯)ã€‚
 	http://www.jianshu.com/p/06c0ae8d9a96
 	http://blog.csdn.net/u010687392/article/details/46906657
 	https://github.com/wasabeef/awesome-android-ui	
 
-52.SnackbarÊÇAndroid Support Design Library¿âÖĞµÄÒ»¸ö¿Ø¼ş£¬¿ÉÒÔÔÚÆÁÄ»µ×²¿¿ìËÙµ¯³öÏûÏ¢£¬±ÈToast¸ü¼ÓºÃÓÃ¡£±¾ÎÄ¶ÔÔ­ÉúSnackbar½øĞĞÁËĞŞ¸Ä£¬Ê¹Æä¸ü¼ÓÁé»î¡£
+52.Snackbaræ˜¯Android Support Design Libraryåº“ä¸­çš„ä¸€ä¸ªæ§ä»¶ï¼Œå¯ä»¥åœ¨å±å¹•åº•éƒ¨å¿«é€Ÿå¼¹å‡ºæ¶ˆæ¯ï¼Œæ¯”Toastæ›´åŠ å¥½ç”¨ã€‚æœ¬æ–‡å¯¹åŸç”ŸSnackbarè¿›è¡Œäº†ä¿®æ”¹ï¼Œä½¿å…¶æ›´åŠ çµæ´»ã€‚
 	http://www.jianshu.com/p/cd1e80e64311
 
 53.https://www.uplabs.com/
 
-54.Ö÷Á÷µÄÊı¾İ¿â¿ò¼Ü 
-	dbflowÊÇAndroid SQLite ORM µÄÒ»¸ö¹¤¾ß¿â¡£×ÛºÏÁË Active Android, Schematic, Ollie,Sprinkles µÈ¿âµÄÓÅµã£»Í¨¹ı×¢½âÊµÏÖ£¬ĞÔÄÜºÃ£»ÄÜÉú³É ContentProvider
+54.ä¸»æµçš„æ•°æ®åº“æ¡†æ¶ 
+	dbflowæ˜¯Android SQLite ORM çš„ä¸€ä¸ªå·¥å…·åº“ã€‚ç»¼åˆäº† Active Android, Schematic, Ollie,Sprinkles ç­‰åº“çš„ä¼˜ç‚¹ï¼›é€šè¿‡æ³¨è§£å®ç°ï¼Œæ€§èƒ½å¥½ï¼›èƒ½ç”Ÿæˆ ContentProvider
 
-55.Android Éè¼Æ¹æ·¶
+55.Android è®¾è®¡è§„èŒƒ
 	http://www.jianshu.com/p/b38e81be51ca
 	http://www.tuyiyi.com/v/40056.html
 
-56.»ìºÏAPP¿ª·¢  
+56.æ··åˆAPPå¼€å‘  
 	APICloud
 	 https://www.zhihu.com/question/41341371
 		http://blog.csdn.net/qq_23547831/article/details/51812985
@@ -161,7 +161,7 @@ https://github.com/jeasonlzy/NineGridView
 
 58.RxAndroid   http://www.jianshu.com/p/6d1ef9f43cdc
 		
-59.Ô²ĞÎ°Ù·Ö±Èprogressbar 
+59.åœ†å½¢ç™¾åˆ†æ¯”progressbar 
 	https://github.com/Shinelw/ColorArcProgressBar
 
 60. FlycoDialog-Matser 
@@ -169,95 +169,95 @@ https://github.com/jeasonlzy/NineGridView
 61.NavigationTabBar  
 	https://github.com/Devlight/NavigationTabBar
 
-62.ÓÑÃË
-	Ó¦ÓÃÍ³¼Æ
-	·ÖÏí
-	µÚÈı·½µÇÂ¼
-	ÏûÏ¢ÍÆËÍ
+62.å‹ç›Ÿ
+	åº”ç”¨ç»Ÿè®¡
+	åˆ†äº«
+	ç¬¬ä¸‰æ–¹ç™»å½•
+	æ¶ˆæ¯æ¨é€
 
-63.Android ÊµÏÖ»¡ĞÎView»òÕßImageView
+63.Android å®ç°å¼§å½¢Viewæˆ–è€…ImageView
 	http://blog.csdn.net/mq2856992713/article/details/78635790?locationNum=6&fps=1
 
-64. RxJava ºÍ RxAndroid µÄ¹ØÏµ  
-	RxAndroidÊÇRxJavaµÄÒ»¸öÕë¶ÔAndroidÆ½Ì¨µÄÀ©Õ¹£¬Ö÷ÒªÓÃÓÚ Android ¿ª·¢
+64. RxJava å’Œ RxAndroid çš„å…³ç³»  
+	RxAndroidæ˜¯RxJavaçš„ä¸€ä¸ªé’ˆå¯¹Androidå¹³å°çš„æ‰©å±•ï¼Œä¸»è¦ç”¨äº Android å¼€å‘
 
-65.FreeLineÊµÏÖAndroidµÄÃë¼¶±àÒë
+65.FreeLineå®ç°Androidçš„ç§’çº§ç¼–è¯‘
 
-66.ÓÑÃË´òµã 
-	µ¼ÈëShareSDKÄ£¿éÊ±±¨£ºExecution failed for task ':app:transformClassesWithMultidexlistForDebug'.
-	´íÎó£¬É¾³ıv4Ö§³Ö°ü
+66.å‹ç›Ÿæ‰“ç‚¹ 
+	å¯¼å…¥ShareSDKæ¨¡å—æ—¶æŠ¥ï¼šExecution failed for task ':app:transformClassesWithMultidexlistForDebug'.
+	é”™è¯¯ï¼Œåˆ é™¤v4æ”¯æŒåŒ…
 
-67.android Ö±²¥ http://blog.csdn.net/mr_sk/article/details/71083366
+67.android ç›´æ’­ http://blog.csdn.net/mr_sk/article/details/71083366
 	https://cloud.tencent.com/document/product/268/7658
 
-68.Android ¹¤¾ßÀà´óÈ« 	http://blog.csdn.net/abcwang1234/article/details/53421290
+68.Android å·¥å…·ç±»å¤§å…¨ 	http://blog.csdn.net/abcwang1234/article/details/53421290
 
-69.»ùÓÚMaterial Design Support LibraryµÄÒ»¸öĞ¡Demo£¬Õâ¸öDemo»áÂıÂıµÄÈ¥ÍêÉÆ£¬²»½ö½öÊÇÒ»¸ö»ùÓÚMDµÄDemo¡£ÀïÃæ»áº¬ÓĞ¸÷ÖÖ¹¤¾ßÀà£¬Í¨ÓÃµÄÒ»Ğ©AadpterÒÔ¼°Ò»Ğ©×é¼şµÈ¡£Android×Ô¶¨ÒåViewÖ®¸ß·ÂQQ½¡¿µ
+69.åŸºäºMaterial Design Support Libraryçš„ä¸€ä¸ªå°Demoï¼Œè¿™ä¸ªDemoä¼šæ…¢æ…¢çš„å»å®Œå–„ï¼Œä¸ä»…ä»…æ˜¯ä¸€ä¸ªåŸºäºMDçš„Demoã€‚é‡Œé¢ä¼šå«æœ‰å„ç§å·¥å…·ç±»ï¼Œé€šç”¨çš„ä¸€äº›Aadpterä»¥åŠä¸€äº›ç»„ä»¶ç­‰ã€‚Androidè‡ªå®šä¹‰Viewä¹‹é«˜ä»¿QQå¥åº·
 	https://github.com/burgessjp/MaterialDesignDemo
 
-70.25¸öandroid µÚÈı·½¿â
+70.25ä¸ªandroid ç¬¬ä¸‰æ–¹åº“
 	http://blog.csdn.net/crazy1235/article/details/55805071
 
-71.Android µÚÈı·½¿âºÏ¼¯
+71.Android ç¬¬ä¸‰æ–¹åº“åˆé›†
 	http://blog.csdn.net/u011507982/article/details/51241483
 
-72.ÍêÃÀ½â¾öAndroid 6.0ÒÔÉÏ¶¯Ì¬È¨ÏŞÉêÇëÎÊÌâ
+72.å®Œç¾è§£å†³Android 6.0ä»¥ä¸ŠåŠ¨æ€æƒé™ç”³è¯·é—®é¢˜
 	https://github.com/holidaycheck/Permissify
 
-73.AndroidÑ¡ÔñÆ÷ https://github.com/jdsjlzx/AndroidPicker
+73.Androidé€‰æ‹©å™¨ https://github.com/jdsjlzx/AndroidPicker
 
-74.²úÆ·Éè¼Æ http://www.waibaodashi.com/show/3/83.html
+74.äº§å“è®¾è®¡ http://www.waibaodashi.com/show/3/83.html
 
 75.springView  https://github.com/liaoinstan/SpringView/blob/master/README_CN.md
 
-76.°¢Àï¿ªÔ´µÄVLayout
+76.é˜¿é‡Œå¼€æºçš„VLayout
 	https://github.com/alibaba/vlayout
 
-77.boxing-master ßÙÁ¨ßÙÁ¨Í¼Æ¬Ñ¡ÔñÆ÷£¬°üº¬Í¼Æ¬µ¥Ñ¡£¬¶àÑ¡£¬Ñ¡Ôñºó¼ô²Ã£¬ÊÓÆµÑ¡Ôñ
+77.boxing-master å“”å“©å“”å“©å›¾ç‰‡é€‰æ‹©å™¨ï¼ŒåŒ…å«å›¾ç‰‡å•é€‰ï¼Œå¤šé€‰ï¼Œé€‰æ‹©åå‰ªè£ï¼Œè§†é¢‘é€‰æ‹©
 	https://github.com/Bilibili/boxing
 
-78.XEditText ´øÉ¾³ı¹¦ÄÜµÄEditText£»ÏÔÊ¾»òÕßÒş²ØÃÜÂë£»¿ÉÉèÖÃ×Ô¶¯Ìí¼Ó·Ö¸ô·û·Ö¸îµç»°ºÅÂë¡¢ÒøĞĞ¿¨ºÅµÈ£»Ö§³Ö½ûÖ¹Emoji±íÇé·ûºÅÊäÈë¡£
+78.XEditText å¸¦åˆ é™¤åŠŸèƒ½çš„EditTextï¼›æ˜¾ç¤ºæˆ–è€…éšè—å¯†ç ï¼›å¯è®¾ç½®è‡ªåŠ¨æ·»åŠ åˆ†éš”ç¬¦åˆ†å‰²ç”µè¯å·ç ã€é“¶è¡Œå¡å·ç­‰ï¼›æ”¯æŒç¦æ­¢Emojiè¡¨æƒ…ç¬¦å·è¾“å…¥ã€‚
 
-79.XStateController StateController¹ËÃûË¼Òå£º×´Ì¬¿ØÖÆ»ú£¬ÓÃ×÷¼¸¸ö×´Ì¬µÄÇĞ»»¡£¸Ã¿Ø¼ş¿ÉÒÔÔÚLoading & Empty & Error& ContentËÄ¸ö×´Ì¬µÄ×Ô¶¨Òå¶¯»­ÇĞ»»¡£
+79.XStateController StateControlleré¡¾åæ€ä¹‰ï¼šçŠ¶æ€æ§åˆ¶æœºï¼Œç”¨ä½œå‡ ä¸ªçŠ¶æ€çš„åˆ‡æ¢ã€‚è¯¥æ§ä»¶å¯ä»¥åœ¨Loading & Empty & Error& Contentå››ä¸ªçŠ¶æ€çš„è‡ªå®šä¹‰åŠ¨ç”»åˆ‡æ¢ã€‚
 	https://github.com/limedroid/XStateController
 
-80.Android Crash¿ò¼ÜRecovery
+80.Android Crashæ¡†æ¶Recovery
 	https://github.com/Sunzxyong/Recovery
 
-81.ìÅ¿áLoading
+81.ç‚«é…·Loading
 	com.wang.avi:library:2.1.3
 
-82.Ò»¸öÍêÕû·â×°ºÃµÄpopupWindow
+82.ä¸€ä¸ªå®Œæ•´å°è£…å¥½çš„popupWindow
 	BasePopupWindow  https://github.com/razerdp/BasePopup
 
-83.ScrollView¡¢RecyclerView¡¢ScrollViewÇ¶Ì×ListViewĞÔÄÜÓÅ»¯·½°¸
+83.ScrollViewã€RecyclerViewã€ScrollViewåµŒå¥—ListViewæ€§èƒ½ä¼˜åŒ–æ–¹æ¡ˆ
 	https://github.com/mcxtzhang/NestFullListView
 
-84.AgentWeb £¬ Ò»¸ö¼ò½àÒ×ÓÃµÄ Android Web ¿â
+84.AgentWeb ï¼Œ ä¸€ä¸ªç®€æ´æ˜“ç”¨çš„ Android Web åº“
 	compile 'com.just.agentweb:agentweb:2.0.1'
 
-85.android¸÷ÖÖ¸÷ÑùµÄÅÜÂíµÆÑùÊ½
+85.androidå„ç§å„æ ·çš„è·‘é©¬ç¯æ ·å¼
 	compile 'com.sunfusheng:marqueeview:1.3.2'
 
-86.µÚÈı·½Dialog¿â£º
+86.ç¬¬ä¸‰æ–¹Dialogåº“ï¼š
 	http://blog.csdn.net/ss1168805219/article/details/54954427
 
-87.ActivityµÄËÄÖÖÆô¶¯Ä£Ê½
-	1).standard Ä¬ÈÏÄ£Ê½£¬ÔÚÕâ¸öÄ£Ê½ÏÂ£¬¶¼»áÄ¬ÈÏ´´½¨Ò»¸öĞÂµÄÊµÀı£¬ÔÊĞíÓĞ¶à¸öÏàÍ¬µÄActivityµş¼Ó¡£
-	2£©.singleTop ¿ÉÒÔÓĞ¶à¸öÊµÀı£¬µ«ÊÇ²»ÔÊĞí¶à¸öÏàÍ¬Activityµş¼Ó¡£¼´£¬Èç¹ûActivityÔÚÕ»¶¥µÄÊ±ºò£¬Æô¶¯ÏàÍ¬µÄActivity£¬²»»á´´½¨ĞÂµÄÊµÀı£¬¶ø»áµ÷ÓÃÆäonNewIntent·½·¨¡£
-	3).singleTask Ö»ÓĞÒ»¸öÊµÀı¡£ÔÚÍ¬Ò»¸öÓ¦ÓÃ³ÌĞòÖĞÆô¶¯ËûµÄÊ±ºò£¬ÈôActivity²»´æÔÚ£¬Ôò»áÔÚµ±Ç°task´´½¨Ò»¸öĞÂµÄÊµÀı£¬Èô´æÔÚ£¬Ôò»á°ÑtaskÖĞÔÚÆäÖ®ÉÏµÄÆäËüActivity destoryµô²¢µ÷ÓÃËüµÄonNewIntent·½·¨¡£
+87.Activityçš„å››ç§å¯åŠ¨æ¨¡å¼
+	1).standard é»˜è®¤æ¨¡å¼ï¼Œåœ¨è¿™ä¸ªæ¨¡å¼ä¸‹ï¼Œéƒ½ä¼šé»˜è®¤åˆ›å»ºä¸€ä¸ªæ–°çš„å®ä¾‹ï¼Œå…è®¸æœ‰å¤šä¸ªç›¸åŒçš„Activityå åŠ ã€‚
+	2ï¼‰.singleTop å¯ä»¥æœ‰å¤šä¸ªå®ä¾‹ï¼Œä½†æ˜¯ä¸å…è®¸å¤šä¸ªç›¸åŒActivityå åŠ ã€‚å³ï¼Œå¦‚æœActivityåœ¨æ ˆé¡¶çš„æ—¶å€™ï¼Œå¯åŠ¨ç›¸åŒçš„Activityï¼Œä¸ä¼šåˆ›å»ºæ–°çš„å®ä¾‹ï¼Œè€Œä¼šè°ƒç”¨å…¶onNewIntentæ–¹æ³•ã€‚
+	3).singleTask åªæœ‰ä¸€ä¸ªå®ä¾‹ã€‚åœ¨åŒä¸€ä¸ªåº”ç”¨ç¨‹åºä¸­å¯åŠ¨ä»–çš„æ—¶å€™ï¼Œè‹¥Activityä¸å­˜åœ¨ï¼Œåˆ™ä¼šåœ¨å½“å‰taskåˆ›å»ºä¸€ä¸ªæ–°çš„å®ä¾‹ï¼Œè‹¥å­˜åœ¨ï¼Œåˆ™ä¼šæŠŠtaskä¸­åœ¨å…¶ä¹‹ä¸Šçš„å…¶å®ƒActivity destoryæ‰å¹¶è°ƒç”¨å®ƒçš„onNewIntentæ–¹æ³•ã€‚
 	4).singleInstance 
-		Ö»ÓĞÒ»¸öÊµÀı£¬²¢ÇÒÕâ¸öÊµÀı¶ÀÁ¢ÔËĞĞÔÚÒ»¸ötaskÖĞ£¬Õâ¸ötaskÖ»ÓĞÕâ¸öÊµÀı£¬²»ÔÊĞíÓĞ±ğµÄActivity´æÔÚ¡£
+		åªæœ‰ä¸€ä¸ªå®ä¾‹ï¼Œå¹¶ä¸”è¿™ä¸ªå®ä¾‹ç‹¬ç«‹è¿è¡Œåœ¨ä¸€ä¸ªtaskä¸­ï¼Œè¿™ä¸ªtaskåªæœ‰è¿™ä¸ªå®ä¾‹ï¼Œä¸å…è®¸æœ‰åˆ«çš„Activityå­˜åœ¨ã€‚
 
 
-87.ZBannerÊÇÒ»¸öÕæÕıµÄÂÖ²¥¿Ø¼ş£¬²¢·ÇViewPagerµÄ¼òµ¥¸ÄÔì¡£
+87.ZBanneræ˜¯ä¸€ä¸ªçœŸæ­£çš„è½®æ’­æ§ä»¶ï¼Œå¹¶éViewPagerçš„ç®€å•æ”¹é€ ã€‚
 	https://github.com/likeadog/ZBanner
 
-88.FragmentµÄÀÁ¼ÓÔØ
+88.Fragmentçš„æ‡’åŠ è½½
 
-89.FragmentµÄÉúÃüÖÜÆÚ
+89.Fragmentçš„ç”Ÿå‘½å‘¨æœŸ
 
-³¡¾°ÑİÊ¾ : ÇĞ»»µ½¸ÃFragment
+åœºæ™¯æ¼”ç¤º : åˆ‡æ¢åˆ°è¯¥Fragment
 11-29 14:26:35.095: D/AppListFragment(7649): onAttach
 11-29 14:26:35.095: D/AppListFragment(7649): onCreate
 11-29 14:26:35.095: D/AppListFragment(7649): onCreateView
@@ -265,271 +265,271 @@ https://github.com/jeasonlzy/NineGridView
 11-29 14:26:35.120: D/AppListFragment(7649): onStart
 11-29 14:26:35.120: D/AppListFragment(7649): onResume
 
-ÆÁÄ»Ãğµô£º
+å±å¹•ç­æ‰ï¼š
 11-29 14:27:35.185: D/AppListFragment(7649): onPause
 11-29 14:27:35.205: D/AppListFragment(7649): onSaveInstanceState
 11-29 14:27:35.205: D/AppListFragment(7649): onStop
 
-ÆÁÄ»½âËø
+å±å¹•è§£é”
 11-29 14:33:13.240: D/AppListFragment(7649): onStart
 11-29 14:33:13.275: D/AppListFragment(7649): onResume
 
-ÇĞ»»µ½ÆäËûFragment:
+åˆ‡æ¢åˆ°å…¶ä»–Fragment:
 11-29 14:33:33.655: D/AppListFragment(7649): onPause
 11-29 14:33:33.655: D/AppListFragment(7649): onStop
 11-29 14:33:33.660: D/AppListFragment(7649): onDestroyView
 
-ÇĞ»»»Ø±¾ÉíµÄFragment:
+åˆ‡æ¢å›æœ¬èº«çš„Fragment:
 11-29 14:33:55.820: D/AppListFragment(7649): onCreateView
 11-29 14:33:55.825: D/AppListFragment(7649): onActivityCreated
 11-29 14:33:55.825: D/AppListFragment(7649): onStart
 11-29 14:33:55.825: D/AppListFragment(7649): onResume
 
-»Øµ½×ÀÃæ
+å›åˆ°æ¡Œé¢
 11-29 14:34:26.590: D/AppListFragment(7649): onPause
 11-29 14:34:26.880: D/AppListFragment(7649): onSaveInstanceState
 11-29 14:34:26.880: D/AppListFragment(7649): onStop
 
-»Øµ½Ó¦ÓÃ
+å›åˆ°åº”ç”¨
 11-29 14:36:51.940: D/AppListFragment(7649): onStart
 11-29 14:36:51.940: D/AppListFragment(7649): onResume
 
 
-ÍË³öÓ¦ÓÃ
+é€€å‡ºåº”ç”¨
 11-29 14:37:03.020: D/AppListFragment(7649): onPause
 11-29 14:37:03.155: D/AppListFragment(7649): onStop
 11-29 14:37:03.155: D/AppListFragment(7649): onDestroyView
 11-29 14:37:03.165: D/AppListFragment(7649): onDestroy
 11-29 14:37:03.165: D/AppListFragment(7649): onDetach
 
-90.Í¼Æ¬Ëõ·Åµã»÷·Å´ó²é¿´µÄ¿Ø¼ş PhotoView
+90.å›¾ç‰‡ç¼©æ”¾ç‚¹å‡»æ”¾å¤§æŸ¥çœ‹çš„æ§ä»¶ PhotoView
 	https://github.com/chrisbanes/PhotoView
 	https://github.com/bm-x/PhotoView
 
-91.Log¿ò¼Ü Logger
-	¼òµ¥£¬Æ¯ÁÁ£¬Ç¿´óµÄAndroidÈÕÖ¾¹¤¾ß
+91.Logæ¡†æ¶ Logger
+	ç®€å•ï¼Œæ¼‚äº®ï¼Œå¼ºå¤§çš„Androidæ—¥å¿—å·¥å…·
 	https://github.com/orhanobut/logger
 
 92.NumberButton 
-	×Ô¶¨Òå×é¼ş£º¹ºÎï³µÉÌÆ·ÊıÁ¿¡¢Ôö¼ÓºÍ¼õÉÙ¿ØÖÆ°´Å¥¡£ ËµÃ÷£º ¿ÉÒÔ¶¨Òå×î´ó¿â´æ¡¢µ±Ç°ÊıÁ¿¡¢×î´ó¹ºÂòÊıÁ¿ ¿ÉÒÔ´ò¿ª»ò¹Ø±ÕÊıÁ¿ÊäÈë ¿ÉÒÔ°´Å¥ºÍÊäÈë¿òµÄ¿í¶È Ê¹ÓÃ ÒıÈë compile 'ren.qinc.numberbutton:numberbutton:0.0.1' 
+	è‡ªå®šä¹‰ç»„ä»¶ï¼šè´­ç‰©è½¦å•†å“æ•°é‡ã€å¢åŠ å’Œå‡å°‘æ§åˆ¶æŒ‰é’®ã€‚ è¯´æ˜ï¼š å¯ä»¥å®šä¹‰æœ€å¤§åº“å­˜ã€å½“å‰æ•°é‡ã€æœ€å¤§è´­ä¹°æ•°é‡ å¯ä»¥æ‰“å¼€æˆ–å…³é—­æ•°é‡è¾“å…¥ å¯ä»¥æŒ‰é’®å’Œè¾“å…¥æ¡†çš„å®½åº¦ ä½¿ç”¨ å¼•å…¥ compile 'ren.qinc.numberbutton:numberbutton:0.0.1' 
 
 93.
 https://github.com/wenchaosong/OCR_identify 
 
-   Éí·İÖ¤ºÍÒøĞĞ¿¨Ê¶±ğ
+   èº«ä»½è¯å’Œé“¶è¡Œå¡è¯†åˆ«
 
 https://github.com/zhouxu88/OCRDemo 
 
-    Éí·İÖ¤ºÍÒøĞĞ¿¨Ê¶±ğ
+    èº«ä»½è¯å’Œé“¶è¡Œå¡è¯†åˆ«
 
 https://github.com/duaiyun1314/BankCardScanner 
 
-   ÒøĞĞ¿¨Ê¶±ğ
+   é“¶è¡Œå¡è¯†åˆ«
 
 https://github.com/daheicode/OCRDemo 
 
- Éí·İÖ¤Ê¶±ğ
+ èº«ä»½è¯è¯†åˆ«
 
-94.·ÂĞÂ°æÎ¢ĞÅµÄĞ¡³ÌĞòÏÂÀ­À¸
+94.ä»¿æ–°ç‰ˆå¾®ä¿¡çš„å°ç¨‹åºä¸‹æ‹‰æ 
 	https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824818&idx=1&sn=fe725d052c98f505b0b09e16c70f4053&chksm=80b7b4ecb7c03dfa6893bef28230d1bca876c889328c8e50ae0db31985020c58fad59f42048a&mpshare=1&scene=23&srcid=0118r8xJreDLCQJgOX6gtGCQ#rd
 
 	github:https://github.com/renjianan/SimpleBrowser
 
-95.Github¿ªÔ´¿Ø¼şºÏ¼¯
+95.Githubå¼€æºæ§ä»¶åˆé›†
 	https://www.cnblogs.com/chenxibobo/p/6897822.html
 
-96.gifÍ¼²¥·Å¿Ø¼ş
+96.gifå›¾æ’­æ”¾æ§ä»¶
 	https://github.com/sbakhtiarov/gif-movie-view
 
-97.ÊÖ»úÏà¹Ø¹¤¾ßÀà
+97.æ‰‹æœºç›¸å…³å·¥å…·ç±»
 	https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/src/main/java/com/blankj/utilcode/util/PhoneUtils.java
 
-98.Material Design·ç¸ñµÄµÇÂ¼ºÍ×¢²áÒ³Ãæ
+98.Material Designé£æ ¼çš„ç™»å½•å’Œæ³¨å†Œé¡µé¢
 	https://github.com/sourcey/materiallogindemo
 
-99.NiceSpinner ¼òµ¥ÊµÓÃµÄºÃ¿´µÄSpinner
+99.NiceSpinner ç®€å•å®ç”¨çš„å¥½çœ‹çš„Spinner
 
-100.Android ÊÓÆµÑ¹Ëõ
+100.Android è§†é¢‘å‹ç¼©
 	https://github.com/wuxiaoqiang625/VideoCompress
 
-101.Android×Ô¶¨Òå View - ·ÂÌÔ±¦ ÌÔÇÀ¹º½ø¶ÈÌõ
+101.Androidè‡ªå®šä¹‰ View - ä»¿æ·˜å® æ·˜æŠ¢è´­è¿›åº¦æ¡
 	https://github.com/zhlucky/SaleProgressView
 
-102.Logger ÈÕÖ¾¿ªÔ´¿ò¼Ü
+102.Logger æ—¥å¿—å¼€æºæ¡†æ¶
 	https://github.com/orhanobut/logger
 
 
-103.°¢ÀïÔÆÈÈĞŞ¸´¼¼ÊõSophixµÄ¿ìËÙ½ÓÈë
+103.é˜¿é‡Œäº‘çƒ­ä¿®å¤æŠ€æœ¯Sophixçš„å¿«é€Ÿæ¥å…¥
 	http://blog.csdn.net/qq_33337504/article/details/77864348
 
-104.³ÇÊĞÑ¡Ôñ¿ªÔ´£¨·ÂÃÀÍÅ£©
+104.åŸå¸‚é€‰æ‹©å¼€æºï¼ˆä»¿ç¾å›¢ï¼‰
 	https://github.com/zaaach/CityPicker
 
-105. Android ³¬¼¶ÓÅÖÊ£¬¶àÇÒÇ¿´ó¿ªÔ´´úÂë
+105. Android è¶…çº§ä¼˜è´¨ï¼Œå¤šä¸”å¼ºå¤§å¼€æºä»£ç 
 
-106.¿É¹Ì¶¨±ß½çÄÚÈİ×ÖÌå´óĞ¡×ÔÊÊÓ¦µÄAutoFitTextView
-	ÏîÄ¿µØÖ·£ºhttps://github.com/grantland/android-autofittextview
+106.å¯å›ºå®šè¾¹ç•Œå†…å®¹å­—ä½“å¤§å°è‡ªé€‚åº”çš„AutoFitTextView
+	é¡¹ç›®åœ°å€ï¼šhttps://github.com/grantland/android-autofittextview
 
-107.¸÷ÖÖ×ÖÌå¼òµ¥Ê¹ÓÃ
+107.å„ç§å­—ä½“ç®€å•ä½¿ç”¨
 	https://github.com/chrisjenx/Calligraphy
 
-108.ARouterµÄÂ·¾¶ÖÁÉÙÁ½¼¶£¬ĞèÒª´«µİÊı¾İÊÇĞèÒªinject().
+108.ARouterçš„è·¯å¾„è‡³å°‘ä¸¤çº§ï¼Œéœ€è¦ä¼ é€’æ•°æ®æ˜¯éœ€è¦inject().
 
-109.Óöµ½AS3.0 annotationProcessor´íÎó£¬
+109.é‡åˆ°AS3.0 annotationProcessoré”™è¯¯ï¼Œ
 	http://blog.csdn.net/keep_holding_on/article/details/76188657
 
-110.¾Å¹¬¸ñÍ¼Æ¬Õ¹Ê¾
-	http://blog.csdn.net/zhangyulin311/article/details/51433321¡¢
+110.ä¹å®«æ ¼å›¾ç‰‡å±•ç¤º
+	http://blog.csdn.net/zhangyulin311/article/details/51433321ã€
 	https://github.com/laobie/NineGridImageView
 
-111.Android 7.0´øÀ´µÄĞÂµÄ¹¤¾ßÀàDiffUtil ËûÊÇÎªrecycleviewµÄÊı¾İ±ä»¯Ìá¹©Êı¾İ¶Ô±ÈµÄ¹¤¾ßÀà¡£ 
+111.Android 7.0å¸¦æ¥çš„æ–°çš„å·¥å…·ç±»DiffUtil ä»–æ˜¯ä¸ºrecycleviewçš„æ•°æ®å˜åŒ–æä¾›æ•°æ®å¯¹æ¯”çš„å·¥å…·ç±»ã€‚ 
 	http://blog.csdn.net/qq_25867141/article/details/52769332
 
-112.Ò»¸ö²é¿´ÄÚ´æÊÇ·ñĞ¹Â©µÄ¹¤¾ßLeakCanary£¬²¢Í¨¹ıÑĞ¾¿Ô´ÂëÃ÷°×ËüÊÇÈçºÎ·ÖÎöºÍ²éÕÒ´æÔÚĞ¹Â©ĞÅÏ¢µÄ 
+112.ä¸€ä¸ªæŸ¥çœ‹å†…å­˜æ˜¯å¦æ³„æ¼çš„å·¥å…·LeakCanaryï¼Œå¹¶é€šè¿‡ç ”ç©¶æºç æ˜ç™½å®ƒæ˜¯å¦‚ä½•åˆ†æå’ŒæŸ¥æ‰¾å­˜åœ¨æ³„æ¼ä¿¡æ¯çš„ 
 	https://blog.csdn.net/u012304076/article/details/79661822
 
-113.×ÀÃæÍ¼±ê½Ç±ê£ºme.leolin:ShortcutBadger:1.1.21@aar
+113.æ¡Œé¢å›¾æ ‡è§’æ ‡ï¼šme.leolin:ShortcutBadger:1.1.21@aar
 
-114.Ò»¸ö²»´íµÄ²©¿Í£º http://blog.coderclock.com/archives/
+114.ä¸€ä¸ªä¸é”™çš„åšå®¢ï¼š http://blog.coderclock.com/archives/
 
-115.Ç¿´óµÄRecyclerViewÕ³ĞÔÍ·²¿ https://github.com/oubowu/StickyItemDecoration
+115.å¼ºå¤§çš„RecyclerViewç²˜æ€§å¤´éƒ¨ https://github.com/oubowu/StickyItemDecoration
 	https://github.com/laiyongshan/PinnedSectionItemDecoration
 
-116.CompressTools-AndroidÎŞËğÑ¹ËõÍ¼Æ¬£¬µ×²ãÑ¹Ëõ   
+116.CompressTools-Androidæ— æŸå‹ç¼©å›¾ç‰‡ï¼Œåº•å±‚å‹ç¼©   
 		compile 'com.jaywei:compresstool:1.2.0'
 		https://github.com/lexluthors/CompressTools-Android
 
-117.AndroidTools Ò»¸ö¿â°üº¬ÁË¸÷ÖÖ¹¤¾ß£¬¼òµ¥µ÷ÓÃÊ¹ÓÃ
+117.AndroidTools ä¸€ä¸ªåº“åŒ…å«äº†å„ç§å·¥å…·ï¼Œç®€å•è°ƒç”¨ä½¿ç”¨
 	https://github.com/mazouri/AndroidTools
 
-118.×é¼ş»¯¿ª·¢£º¾ÍÊÇ½«Ò»¸öapp·Ö³É¶à¸öModule£¬Ã¿¸öModule¶¼ÊÇÒ»¸ö×é¼ş(Ò²¿ÉÒÔÊÇÒ»¸ö»ù´¡¿â¹©×é¼şÒÀÀµ)£¬¿ª·¢µÄ¹ı³ÌÖĞÎÒÃÇ¿ÉÒÔµ¥¶Àµ÷ÊÔ²¿·Ö×é¼ş£¬×é¼ş¼ä²»ĞèÒª»¥ÏàÒÀÀµ£¬µ«¿ÉÒÔÏà»¥µ÷ÓÃ£¬×îÖÕ·¢²¼µÄÊ±ºòËùÓĞ×é¼şÒÔlibµÄĞÎÊ½±»Ö÷app¹¤³ÌÒÀÀµ²¢´ò°ü³É1¸öapk¡£
+118.ç»„ä»¶åŒ–å¼€å‘ï¼šå°±æ˜¯å°†ä¸€ä¸ªappåˆ†æˆå¤šä¸ªModuleï¼Œæ¯ä¸ªModuleéƒ½æ˜¯ä¸€ä¸ªç»„ä»¶(ä¹Ÿå¯ä»¥æ˜¯ä¸€ä¸ªåŸºç¡€åº“ä¾›ç»„ä»¶ä¾èµ–)ï¼Œå¼€å‘çš„è¿‡ç¨‹ä¸­æˆ‘ä»¬å¯ä»¥å•ç‹¬è°ƒè¯•éƒ¨åˆ†ç»„ä»¶ï¼Œç»„ä»¶é—´ä¸éœ€è¦äº’ç›¸ä¾èµ–ï¼Œä½†å¯ä»¥ç›¸äº’è°ƒç”¨ï¼Œæœ€ç»ˆå‘å¸ƒçš„æ—¶å€™æ‰€æœ‰ç»„ä»¶ä»¥libçš„å½¢å¼è¢«ä¸»appå·¥ç¨‹ä¾èµ–å¹¶æ‰“åŒ…æˆ1ä¸ªapkã€‚
 	https://blog.csdn.net/cdecde111/article/details/78705386
 
-    ²å¼ş»¯¿ª·¢£ººÍ×é¼ş»¯¿ª·¢ÂÔÓĞ²»Í¬£¬²å¼ş»¯¿ª·¢Ê±½«Õû¸öapp²ğ·Ö³ÉºÜ¶àÄ£¿é£¬ÕâĞ©Ä£¿é°üÀ¨Ò»¸öËŞÖ÷ºÍ¶à¸ö²å¼ş£¬Ã¿¸öÄ£¿é¶¼ÊÇÒ»¸öapk£¨×é¼ş»¯µÄÃ¿¸öÄ£¿éÊÇ¸ölib£©£¬×îÖÕ´ò°üµÄÊ±ºò½«ËŞÖ÷apkºÍ²å¼şapk(»òÆäËû¸ñÊ½)·Ö¿ª»òÕßÁªºÏ´ò°ü¡£
+    æ’ä»¶åŒ–å¼€å‘ï¼šå’Œç»„ä»¶åŒ–å¼€å‘ç•¥æœ‰ä¸åŒï¼Œæ’ä»¶åŒ–å¼€å‘æ—¶å°†æ•´ä¸ªappæ‹†åˆ†æˆå¾ˆå¤šæ¨¡å—ï¼Œè¿™äº›æ¨¡å—åŒ…æ‹¬ä¸€ä¸ªå®¿ä¸»å’Œå¤šä¸ªæ’ä»¶ï¼Œæ¯ä¸ªæ¨¡å—éƒ½æ˜¯ä¸€ä¸ªapkï¼ˆç»„ä»¶åŒ–çš„æ¯ä¸ªæ¨¡å—æ˜¯ä¸ªlibï¼‰ï¼Œæœ€ç»ˆæ‰“åŒ…çš„æ—¶å€™å°†å®¿ä¸»apkå’Œæ’ä»¶apk(æˆ–å…¶ä»–æ ¼å¼)åˆ†å¼€æˆ–è€…è”åˆæ‰“åŒ…ã€‚
 	https://github.com/jasonliyihang/speed_tools
 
-119.TextPathViewÊÇÒ»¸ö°ÑÎÄ×Ö×ª»¯ÎªÂ·¾¶¶¯»­È»ºóÕ¹ÏÖ³öÀ´µÄ×Ô¶¨Òå¿Ø¼ş
+119.TextPathViewæ˜¯ä¸€ä¸ªæŠŠæ–‡å­—è½¬åŒ–ä¸ºè·¯å¾„åŠ¨ç”»ç„¶åå±•ç°å‡ºæ¥çš„è‡ªå®šä¹‰æ§ä»¶
 	https://github.com/totond/TextPathView
 
-120.Ô²½Ç²¼¾Ö http://www.gcssloop.com/tools/rclayout?utm_source=gank.io%2Fxiandu&utm_medium=website
+120.åœ†è§’å¸ƒå±€ http://www.gcssloop.com/tools/rclayout?utm_source=gank.io%2Fxiandu&utm_medium=website
 
-121.Android 7.0 ĞĞÎª±ä¸ü Í¨¹ıFileProviderÔÚÓ¦ÓÃ¼ä¹²ÏíÎÄ¼ş°É 
+121.Android 7.0 è¡Œä¸ºå˜æ›´ é€šè¿‡FileProvideråœ¨åº”ç”¨é—´å…±äº«æ–‡ä»¶å§ 
 	http://blog.csdn.net/lmj623565791/article/details/72859156?utm_source=gank.io%2Fxiandu&utm_medium=website
 
 122.https://github.com/alibaba/arouter
 
-123.Í¼Æ¬Ñ¡ÔñÆ÷
+123.å›¾ç‰‡é€‰æ‹©å™¨
 	https://github.com/LuckSiege/PictureSelector
 	https://segmentfault.com/a/1190000004263541?_ea=549747
 
-124.ºìµã https://github.com/wolfking0608/BadgeView
+124.çº¢ç‚¹ https://github.com/wolfking0608/BadgeView
 	 compile 'q.rorbin:badgeview:1.1.2'
 
-125.Android¿ªÔ´ÏîÄ¿ÕûºÏ£¨Èı£©---- dialog
+125.Androidå¼€æºé¡¹ç›®æ•´åˆï¼ˆä¸‰ï¼‰---- dialog
 	https://blog.csdn.net/yymonkeydo/article/details/49950241
 
-126.GithubÏîÄ¿½âÎö£¨Ê®Ò»£©-->Ò»¸ö¼òµ¥£¬Ç¿´óµÄ×Ô¶¨Òå¹ã¸æ»î¶¯µ¯´°
+126.Githubé¡¹ç›®è§£æï¼ˆåä¸€ï¼‰-->ä¸€ä¸ªç®€å•ï¼Œå¼ºå¤§çš„è‡ªå®šä¹‰å¹¿å‘Šæ´»åŠ¨å¼¹çª—
 	https://github.com/yipianfengye/android-adDialog
 
-127.¶à×´Ì¬layoutÇĞ»»£ºhttps://www.jianshu.com/p/7c7bf4093109
+127.å¤šçŠ¶æ€layoutåˆ‡æ¢ï¼šhttps://www.jianshu.com/p/7c7bf4093109
  
-128.²å¼ş»¯  https://www.jianshu.com/p/353514d315a7
+128.æ’ä»¶åŒ–  https://www.jianshu.com/p/353514d315a7
 
 129.Hotel-Date-Select
-	·ÂÃÀÍÅ¾ÆµêÔ¤¶©ÈÕÆÚÑ¡Ôñ
+	ä»¿ç¾å›¢é…’åº—é¢„è®¢æ—¥æœŸé€‰æ‹©
 	https://github.com/laiyongshan/CalendarDemo
 
-130.¼òµ¥µÄÓ¦ÓÃ¸üĞÂ¿â https://github.com/czy1121/update
+130.ç®€å•çš„åº”ç”¨æ›´æ–°åº“ https://github.com/czy1121/update
 
-131.Ç¿´óµÄµÚÈı·½Dialog https://github.com/H07000223/FlycoDialog_Master
+131.å¼ºå¤§çš„ç¬¬ä¸‰æ–¹Dialog https://github.com/H07000223/FlycoDialog_Master
 
 
-133.RxTools Ò»¸öÊ®·ÖÇ¿´óµÄ¹¤¾ß¼¯ºÏ£¬ÖµµÃ²Î¿¼
+133.RxTools ä¸€ä¸ªååˆ†å¼ºå¤§çš„å·¥å…·é›†åˆï¼Œå€¼å¾—å‚è€ƒ
 	https://github.com/vondear/RxTool/wiki/RxTool-Wiki
 
-134.Activity ÇĞ»»¶¯»­Ğ§¹û https://github.com/jaychou2012/SwitchLayout
+134.Activity åˆ‡æ¢åŠ¨ç”»æ•ˆæœ https://github.com/jaychou2012/SwitchLayout
 
-135.´øÊı×ÖµÄ½ø¶ÈÌõ NumberProgressBar   https://github.com/daimajia/NumberProgressBar
+135.å¸¦æ•°å­—çš„è¿›åº¦æ¡ NumberProgressBar   https://github.com/daimajia/NumberProgressBar
 
-136.¸üÈ«ÃæµÄ¿ªÔ´ÏîÄ¿·ÖÀà»ã×Ü https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98
+136.æ›´å…¨é¢çš„å¼€æºé¡¹ç›®åˆ†ç±»æ±‡æ€» https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98
 
-137.Ê±¼äÖá https://github.com/baoyachi/StepView
+137.æ—¶é—´è½´ https://github.com/baoyachi/StepView
 	https://www.jianshu.com/p/356619fe64d5
 
-138.eventBusÊ¹ÓÃÏêÏ¸½éÉÜ
+138.eventBusä½¿ç”¨è¯¦ç»†ä»‹ç»
 	https://www.jianshu.com/p/f9ae5691e1bb
 	https://github.com/greenrobot/EventBus
 
-	POSTING (Ä¬ÈÏ) ±íÊ¾ÊÂ¼ş´¦Àíº¯ÊıµÄÏß³Ì¸ú·¢²¼ÊÂ¼şµÄÏß³ÌÔÚÍ¬Ò»¸öÏß³Ì¡£
-MAIN ±íÊ¾ÊÂ¼ş´¦Àíº¯ÊıµÄÏß³ÌÔÚÖ÷Ïß³Ì(UI)Ïß³Ì£¬Òò´ËÔÚÕâÀï²»ÄÜ½øĞĞºÄÊ±²Ù×÷¡£
-BACKGROUND ±íÊ¾ÊÂ¼ş´¦Àíº¯ÊıµÄÏß³ÌÔÚºóÌ¨Ïß³Ì£¬Òò´Ë²»ÄÜ½øĞĞUI²Ù×÷¡£Èç¹û·¢²¼ÊÂ¼şµÄÏß³ÌÊÇÖ÷Ïß³Ì(UIÏß³Ì)£¬ÄÇÃ´ÊÂ¼ş´¦Àíº¯Êı½«»á¿ªÆôÒ»¸öºóÌ¨Ïß³Ì£¬Èç¹û¹û·¢²¼ÊÂ¼şµÄÏß³ÌÊÇÔÚºóÌ¨Ïß³Ì£¬ÄÇÃ´ÊÂ¼ş´¦Àíº¯Êı¾ÍÊ¹ÓÃ¸ÃÏß³Ì¡£
-ASYNC ±íÊ¾ÎŞÂÛÊÂ¼ş·¢²¼µÄÏß³ÌÊÇÄÄÒ»¸ö£¬ÊÂ¼ş´¦Àíº¯ÊıÊ¼ÖÕ»áĞÂ½¨Ò»¸ö×ÓÏß³ÌÔËĞĞ£¬Í¬Ñù²»ÄÜ½øĞĞUI²Ù×÷¡£
+	POSTING (é»˜è®¤) è¡¨ç¤ºäº‹ä»¶å¤„ç†å‡½æ•°çš„çº¿ç¨‹è·Ÿå‘å¸ƒäº‹ä»¶çš„çº¿ç¨‹åœ¨åŒä¸€ä¸ªçº¿ç¨‹ã€‚
+MAIN è¡¨ç¤ºäº‹ä»¶å¤„ç†å‡½æ•°çš„çº¿ç¨‹åœ¨ä¸»çº¿ç¨‹(UI)çº¿ç¨‹ï¼Œå› æ­¤åœ¨è¿™é‡Œä¸èƒ½è¿›è¡Œè€—æ—¶æ“ä½œã€‚
+BACKGROUND è¡¨ç¤ºäº‹ä»¶å¤„ç†å‡½æ•°çš„çº¿ç¨‹åœ¨åå°çº¿ç¨‹ï¼Œå› æ­¤ä¸èƒ½è¿›è¡ŒUIæ“ä½œã€‚å¦‚æœå‘å¸ƒäº‹ä»¶çš„çº¿ç¨‹æ˜¯ä¸»çº¿ç¨‹(UIçº¿ç¨‹)ï¼Œé‚£ä¹ˆäº‹ä»¶å¤„ç†å‡½æ•°å°†ä¼šå¼€å¯ä¸€ä¸ªåå°çº¿ç¨‹ï¼Œå¦‚æœæœå‘å¸ƒäº‹ä»¶çš„çº¿ç¨‹æ˜¯åœ¨åå°çº¿ç¨‹ï¼Œé‚£ä¹ˆäº‹ä»¶å¤„ç†å‡½æ•°å°±ä½¿ç”¨è¯¥çº¿ç¨‹ã€‚
+ASYNC è¡¨ç¤ºæ— è®ºäº‹ä»¶å‘å¸ƒçš„çº¿ç¨‹æ˜¯å“ªä¸€ä¸ªï¼Œäº‹ä»¶å¤„ç†å‡½æ•°å§‹ç»ˆä¼šæ–°å»ºä¸€ä¸ªå­çº¿ç¨‹è¿è¡Œï¼ŒåŒæ ·ä¸èƒ½è¿›è¡ŒUIæ“ä½œã€‚
 
-×÷Õß£ºÀæ×Ó¸ç
-Á´½Ó£ºhttps://www.jianshu.com/p/f9ae5691e1bb
-íÔ´£º¼òÊé
-¼òÊéÖø×÷È¨¹é×÷ÕßËùÓĞ£¬ÈÎºÎĞÎÊ½µÄ×ªÔØ¶¼ÇëÁªÏµ×÷Õß»ñµÃÊÚÈ¨²¢×¢Ã÷³ö´¦¡£
+ä½œè€…ï¼šæ¢¨å­å“¥
+é“¾æ¥ï¼šhttps://www.jianshu.com/p/f9ae5691e1bb
+ä¾†æºï¼šç®€ä¹¦
+ç®€ä¹¦è‘—ä½œæƒå½’ä½œè€…æ‰€æœ‰ï¼Œä»»ä½•å½¢å¼çš„è½¬è½½éƒ½è¯·è”ç³»ä½œè€…è·å¾—æˆæƒå¹¶æ³¨æ˜å‡ºå¤„ã€‚
 
 
-139.2018Äê×îĞÂµÄ30¸ö¿áìÅµÄAndroid¿â
+139.2018å¹´æœ€æ–°çš„30ä¸ªé…·ç‚«çš„Androidåº“
 	https://blog.csdn.net/chuchun_langye/article/details/78308954
 
 
-140.²å¼ş»¯¿ª·¢
+140.æ’ä»¶åŒ–å¼€å‘
 	Replugin   https://github.com/Qihoo360/RePlugin/releases
-	×Ô¼ºgithubÉÏµÄDemo:https://github.com/laiyongshan/RePluginDemo		
+	è‡ªå·±githubä¸Šçš„Demo:https://github.com/laiyongshan/RePluginDemo		
 
-141.Ò»¸ö»¹²»´íµÄ²©¿Í
+141.ä¸€ä¸ªè¿˜ä¸é”™çš„åšå®¢
 	https://www.cnblogs.com/MMLoveMeMM/articles/4900395.html
 
-142.Android ¸ßĞÔÄÜÏÂÔØ¿â 
+142.Android é«˜æ€§èƒ½ä¸‹è½½åº“ 
 		https://github.com/lingochamp/FileDownloader
 
-143.TakePhotoÊÇÒ»¿îÓÃÓÚÔÚAndroidÉè±¸ÉÏ»ñÈ¡ÕÕÆ¬£¨ÅÄÕÕ»ò´ÓÏà²á¡¢ÎÄ¼şÖĞÑ¡Ôñ£©¡¢²Ã¼ôÍ¼Æ¬¡¢Ñ¹ËõÍ¼Æ¬µÄ¿ªÔ´¹¤¾ß¿â£¬Ä¿Ç°×îĞÂ°æ±¾4.1.0¡£ 3.0ÒÔÏÂ°æ±¾¼°APIËµÃ÷£¬Ïê¼ûTakePhoto2.0+¡£
+143.TakePhotoæ˜¯ä¸€æ¬¾ç”¨äºåœ¨Androidè®¾å¤‡ä¸Šè·å–ç…§ç‰‡ï¼ˆæ‹ç…§æˆ–ä»ç›¸å†Œã€æ–‡ä»¶ä¸­é€‰æ‹©ï¼‰ã€è£å‰ªå›¾ç‰‡ã€å‹ç¼©å›¾ç‰‡çš„å¼€æºå·¥å…·åº“ï¼Œç›®å‰æœ€æ–°ç‰ˆæœ¬4.1.0ã€‚ 3.0ä»¥ä¸‹ç‰ˆæœ¬åŠAPIè¯´æ˜ï¼Œè¯¦è§TakePhoto2.0+ã€‚
 	https://github.com/crazycodeboy/TakePhoto
 
-144.Android 6.0. 7.8.9ÊÊÅä https://www.jianshu.com/p/a8fd3d1fa0a3
+144.Android 6.0. 7.8.9é€‚é… https://www.jianshu.com/p/a8fd3d1fa0a3
 
-145.ºÃÓÃµÄ¸»ÎÄ±¾¿ò¼Ü£ºhttps://blog.csdn.net/Life_s/article/details/80706940
+145.å¥½ç”¨çš„å¯Œæ–‡æœ¬æ¡†æ¶ï¼šhttps://blog.csdn.net/Life_s/article/details/80706940
 	implementation 'com.zzhoujay.richtext:richtext:3.0.7'
 
-146.Á´½Ó£ºhttps://pan.baidu.com/s/1q2LQ8oUWZD2vcv8y9ZOCEA 
-ÌáÈ¡Âë£º3qfb 
-¸´ÖÆÕâ¶ÎÄÚÈİºó´ò¿ª°Ù¶ÈÍøÅÌÊÖ»úApp£¬²Ù×÷¸ü·½±ãÅ¶
-2018¶¯Á¦½ÚµãÈ«Ì×ÊÓÆµ¸üĞÂÍê³É£¬°ÙG½Ì³ÌÃâ·ÑÌá¹©ÏÂÔØ
-×ÔÑ§Ò»ÑùÄÃ¸ßĞ½£¡
-[Í¼Æ¬][Í¼Æ¬]http://www.bjpowernode.com/video.html#aaa_10/?1106
-¡¾JavaÁã»ù´¡±Ø±¸ÊÓÆµ½Ì³Ì¡¿
-Á´½Ó£ºhttps://pan.baidu.com/s/17JKIHh6cfqkzvR2tf3Y_gg 
-ÌáÈ¡Âë£ºq2j4 
-¡¾Linux,MySQL,JDBC¡¿
-ÍòÇ§ÀÏÑ§Ô±ÇãÇéÍÆ¼ö£¡¼¼Êõ½»Á÷Èº 773820143
-Á´½Ó£ºhttps://pan.baidu.com/s/1lWLVDxDhGZTewHbmh_i1-w 
-ÌáÈ¡Âë£ºjufs 
-¡¾SpringBoot¡¢Dubbo¡¢Redis¡¿
-Á´½Ó£ºhttps://pan.baidu.com/s/1huP1LOhVXDM0uyM5fhw36Q 
-ÌáÈ¡Âë£ºr04y 
-¡¾EGOVÏîÄ¿¡¢¶şÊÖ³µÏîÄ¿¡¿
-Á´½Ó£ºhttps://pan.baidu.com/s/1dItAPlR-gSTL9t_yhw5EQw 
-ÌáÈ¡Âë£º5slk 
-ÍòÇ§ÀÏÑ§Ô±ÇãÇéÍÆ¼ö£¡ ¼¼Êõ½»Á÷Èº773820143
+146.é“¾æ¥ï¼šhttps://pan.baidu.com/s/1q2LQ8oUWZD2vcv8y9ZOCEA 
+æå–ç ï¼š3qfb 
+å¤åˆ¶è¿™æ®µå†…å®¹åæ‰“å¼€ç™¾åº¦ç½‘ç›˜æ‰‹æœºAppï¼Œæ“ä½œæ›´æ–¹ä¾¿å“¦
+2018åŠ¨åŠ›èŠ‚ç‚¹å…¨å¥—è§†é¢‘æ›´æ–°å®Œæˆï¼Œç™¾Gæ•™ç¨‹å…è´¹æä¾›ä¸‹è½½
+è‡ªå­¦ä¸€æ ·æ‹¿é«˜è–ªï¼
+[å›¾ç‰‡][å›¾ç‰‡]http://www.bjpowernode.com/video.html#aaa_10/?1106
+ã€Javaé›¶åŸºç¡€å¿…å¤‡è§†é¢‘æ•™ç¨‹ã€‘
+é“¾æ¥ï¼šhttps://pan.baidu.com/s/17JKIHh6cfqkzvR2tf3Y_gg 
+æå–ç ï¼šq2j4 
+ã€Linux,MySQL,JDBCã€‘
+ä¸‡åƒè€å­¦å‘˜å€¾æƒ…æ¨èï¼æŠ€æœ¯äº¤æµç¾¤ 773820143
+é“¾æ¥ï¼šhttps://pan.baidu.com/s/1lWLVDxDhGZTewHbmh_i1-w 
+æå–ç ï¼šjufs 
+ã€SpringBootã€Dubboã€Redisã€‘
+é“¾æ¥ï¼šhttps://pan.baidu.com/s/1huP1LOhVXDM0uyM5fhw36Q 
+æå–ç ï¼šr04y 
+ã€EGOVé¡¹ç›®ã€äºŒæ‰‹è½¦é¡¹ç›®ã€‘
+é“¾æ¥ï¼šhttps://pan.baidu.com/s/1dItAPlR-gSTL9t_yhw5EQw 
+æå–ç ï¼š5slk 
+ä¸‡åƒè€å­¦å‘˜å€¾æƒ…æ¨èï¼ æŠ€æœ¯äº¤æµç¾¤773820143
 
 
-147.uni-app ½ÌÑ§ÊÓÆµ£ºhttp://www.hcoder.net/tutorials/info/id/1339
+147.uni-app æ•™å­¦è§†é¢‘ï¼šhttp://www.hcoder.net/tutorials/info/id/1339
 
 
 
 148.https://blog.csdn.net/D29h1jQy3akVx/article/details/78851240
 
-149.È«ÃæÆÁÊÖ»úÊÊÅä  https://blog.csdn.net/xu_coding/article/details/82889782
+149.å…¨é¢å±æ‰‹æœºé€‚é…  https://blog.csdn.net/xu_coding/article/details/82889782
 
-150.È«ÃæÆÁ¡¢Áõº£ÆÁÊÖ»úÊÊÅä  https://blog.csdn.net/zane_xiao/article/details/81781723
+150.å…¨é¢å±ã€åˆ˜æµ·å±æ‰‹æœºé€‚é…  https://blog.csdn.net/zane_xiao/article/details/81781723
 
-151.https://www.jianshu.com/p/b8e62251eabc android 8.0ÊÊÅä
+151.https://www.jianshu.com/p/b8e62251eabc android 8.0é€‚é…
 
-152.¶ş¼¶Áª¶¯ÁĞ±í https://github.com/zhouzhuo810/ZzSecondaryLinkage
+152.äºŒçº§è”åŠ¨åˆ—è¡¨ https://github.com/zhouzhuo810/ZzSecondaryLinkage
 
-153.È¨ÏŞÉêÇë£ºcompile 'com.tbruyelle.rxpermissions:rxpermissions:0.9.4@aar'
+153.æƒé™ç”³è¯·ï¼šcompile 'com.tbruyelle.rxpermissions:rxpermissions:0.9.4@aar'
 	    compile 'io.reactivex:rxandroid:1.2.0'
 	 compile 'io.reactivex:rxjava:1.2.9'
 
@@ -542,52 +542,52 @@ public void getPermission() {
                     @Override
                     public void call(Boolean aBoolean) {
                         if (aBoolean) {
-                            Toast.makeText(MainActivity.this, "ÒÑÊÚÈ¨", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(MainActivity.this, "å·²æˆæƒ", Toast.LENGTH_SHORT).show();
                         } else {
-                            Toast.makeText(MainActivity.this, "Î´ÊÚÈ¨", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(MainActivity.this, "æœªæˆæƒ", Toast.LENGTH_SHORT).show();
                         }
                     }
                 });
 
     }
 
-154.https://www.heweather.com/ ºÍ·çÌìÆø ÌìÆøÔ¤±¨½Ó¿Ú
+154.https://www.heweather.com/ å’Œé£å¤©æ°” å¤©æ°”é¢„æŠ¥æ¥å£
 
-155.vue Ê¹ÓÃÍ¼±í²å¼ş https://blog.csdn.net/gqzydh/article/details/81126181
+155.vue ä½¿ç”¨å›¾è¡¨æ’ä»¶ https://blog.csdn.net/gqzydh/article/details/81126181
 
-156.½â¾öe_charts xÖá¿É»¬¶¯ YÖá¹Ì¶¨µÄÎÊÌâ 	https://blog.csdn.net/Arbort_/article/details/80884789	
+156.è§£å†³e_charts xè½´å¯æ»‘åŠ¨ Yè½´å›ºå®šçš„é—®é¢˜ 	https://blog.csdn.net/Arbort_/article/details/80884789	
 
-157.HolleCharts https://www.cnblogs.com/huolongluo/p/5988644.html ¾ßÌåÊ¹ÓÃ
+157.HolleCharts https://www.cnblogs.com/huolongluo/p/5988644.html å…·ä½“ä½¿ç”¨
 
 
-158.¼«¹âÍÆËÍÊ¹ÓÃÎÊÌâ£ºÎÒÃÇÊÇ³¤Á¬½Ó»úÖÆ£¬½ø³Ì¹Ø±Õ»á¶Ï¿ª³¤Á¬½Ó£¬´Ó¶øÊÕ²»µ½ÍÆËÍÏûÏ¢¡£¹Ø±Õ¼°É±ËÀ½ø³ÌÊÇÓÃ»§ÊÖ»ú¶ËµÄ²Ù×÷£¬ÎÒÃÇÃ»ÓĞ°ì·¨¿ØÖÆ£¬ÎÒÃÇÊÇÓĞÒÔÏÂ·½°¸ÓÅ»¯²¢ÈÃ¸ü¶à¿ª·¢ÕßÊÕµ½ÏûÏ¢
-1¡¢Ä¿Ç°¼«¹âÍÆËÍµÄSDK¶¼ÊÇ¶ÀÁ¢½ø³ÌµÄ£¬´Ó°²×¿SDKµÄ1.8.0°æ±¾Ö®ºó£¬ÎªÁË½â¾öÊĞ³¡ÉÏÒ»Ğ©ÌØÊâROMµÄÏŞÖÆ£¬ĞÂÔöÁË½ø³ÌÖ®¼äÏà»¥»½ĞÑµÄ¹¦ÄÜ£¬Ö»ÒªÓĞÒ»¸öappµÄ½ø³Ì´æÔÚ£¬ÄÇÃ´¾Í¿ÉÒÔ»½ĞÑÆäËûÍ¬ÑùÊ¹ÓÃ¼«¹âSDKµÄapp½ø³Ì£¬ÊÕµ½ÍÆËÍ¡£
-2¡¢Äú¿ÉÒÔÊ¹ÓÃÍÆËÍ²»µ½¶ÌĞÅµ½¹¦ÄÜ£¬ÀûÓÃ¶ÌĞÅ£¬¶ÔÎ´ËÍ´ïAPPÏûÏ¢µÄÓÃ»§£¬½øĞĞÍÆËÍÍ¨Öª¡£¶ÌĞÅÊÇĞèÒª¸¶·ÑµÄ
-3¡¢ÊÖ»ú³§ÉÌÎªÁËÌáÉıÏµÍ³ĞÔÄÜ£¬¶ÔÓ¦ÓÃ½ø³Ì½øĞĞ¹ÜÖÆ£¬ÔÚÓ¦ÓÃÍËµ½ºóÌ¨ºó¾Í½«½ø³ÌÉ±ËÀ£¬µ¼ÖÂÓ¦ÓÃ¼¶µÄÍÆËÍ³¤Á¬½Ó¶Ï¿ª¡£ÎÒÃÇvipÓĞ²¿·ÖÊÖ»ú³§ÉÌÍ¨µÀ£¨Ğ¡Ã×»ªÎª÷È×åFCM£©£¬ÔÚ½ø³ÌÉ±ËÀµÄÇé¿öÏÂ£¬»á×ßÊÖ»úÏµÍ³Í¨µÀÏÂ·¢ÏûÏ¢£¬±£Ö¤ËÍ´ï¡£
+158.æå…‰æ¨é€ä½¿ç”¨é—®é¢˜ï¼šæˆ‘ä»¬æ˜¯é•¿è¿æ¥æœºåˆ¶ï¼Œè¿›ç¨‹å…³é—­ä¼šæ–­å¼€é•¿è¿æ¥ï¼Œä»è€Œæ”¶ä¸åˆ°æ¨é€æ¶ˆæ¯ã€‚å…³é—­åŠæ€æ­»è¿›ç¨‹æ˜¯ç”¨æˆ·æ‰‹æœºç«¯çš„æ“ä½œï¼Œæˆ‘ä»¬æ²¡æœ‰åŠæ³•æ§åˆ¶ï¼Œæˆ‘ä»¬æ˜¯æœ‰ä»¥ä¸‹æ–¹æ¡ˆä¼˜åŒ–å¹¶è®©æ›´å¤šå¼€å‘è€…æ”¶åˆ°æ¶ˆæ¯
+1ã€ç›®å‰æå…‰æ¨é€çš„SDKéƒ½æ˜¯ç‹¬ç«‹è¿›ç¨‹çš„ï¼Œä»å®‰å“SDKçš„1.8.0ç‰ˆæœ¬ä¹‹åï¼Œä¸ºäº†è§£å†³å¸‚åœºä¸Šä¸€äº›ç‰¹æ®ŠROMçš„é™åˆ¶ï¼Œæ–°å¢äº†è¿›ç¨‹ä¹‹é—´ç›¸äº’å”¤é†’çš„åŠŸèƒ½ï¼Œåªè¦æœ‰ä¸€ä¸ªappçš„è¿›ç¨‹å­˜åœ¨ï¼Œé‚£ä¹ˆå°±å¯ä»¥å”¤é†’å…¶ä»–åŒæ ·ä½¿ç”¨æå…‰SDKçš„appè¿›ç¨‹ï¼Œæ”¶åˆ°æ¨é€ã€‚
+2ã€æ‚¨å¯ä»¥ä½¿ç”¨æ¨é€ä¸åˆ°çŸ­ä¿¡åˆ°åŠŸèƒ½ï¼Œåˆ©ç”¨çŸ­ä¿¡ï¼Œå¯¹æœªé€è¾¾APPæ¶ˆæ¯çš„ç”¨æˆ·ï¼Œè¿›è¡Œæ¨é€é€šçŸ¥ã€‚çŸ­ä¿¡æ˜¯éœ€è¦ä»˜è´¹çš„
+3ã€æ‰‹æœºå‚å•†ä¸ºäº†æå‡ç³»ç»Ÿæ€§èƒ½ï¼Œå¯¹åº”ç”¨è¿›ç¨‹è¿›è¡Œç®¡åˆ¶ï¼Œåœ¨åº”ç”¨é€€åˆ°åå°åå°±å°†è¿›ç¨‹æ€æ­»ï¼Œå¯¼è‡´åº”ç”¨çº§çš„æ¨é€é•¿è¿æ¥æ–­å¼€ã€‚æˆ‘ä»¬vipæœ‰éƒ¨åˆ†æ‰‹æœºå‚å•†é€šé“ï¼ˆå°ç±³åä¸ºé­…æ—FCMï¼‰ï¼Œåœ¨è¿›ç¨‹æ€æ­»çš„æƒ…å†µä¸‹ï¼Œä¼šèµ°æ‰‹æœºç³»ç»Ÿé€šé“ä¸‹å‘æ¶ˆæ¯ï¼Œä¿è¯é€è¾¾ã€‚
 
 	
-159.°²×¿8.0ºóÍ¨ÖªÀ¸Notification   
+159.å®‰å“8.0åé€šçŸ¥æ Notification   
 https://mp.weixin.qq.com/s?__biz=MzU3ODg0NjkxMw==&mid=2247483674&idx=1&sn=21d697075cc4d6c6fc456359a9c1e745&chksm=fd6e68b4ca19e1a2836c063a284ab314f0f4347f739b3ad49e71b923313e2e9f97f1a4f218f1&token=522679735&lang=zh_CN#rd
 
 
-160.Android7.0°æ±¾ºó UriºÍÎÄ¼şÂ·¾¶»¥Ïà×ª»»·â×°Àà£¬ÊµÏÖÏµÍ³·ÖÏí¹¦ÄÜ¼° FileProviderÏêÏ¸½âÎöºÍ²È¿ÓÖ¸ÄÏ 
+160.Android7.0ç‰ˆæœ¬å Uriå’Œæ–‡ä»¶è·¯å¾„äº’ç›¸è½¬æ¢å°è£…ç±»ï¼Œå®ç°ç³»ç»Ÿåˆ†äº«åŠŸèƒ½åŠ FileProviderè¯¦ç»†è§£æå’Œè¸©å‘æŒ‡å— 
 	https://mp.weixin.qq.com/s?__biz=MzU3ODg0NjkxMw==&mid=2247483668&idx=1&sn=692b436f80608e4f1529725f9b464f3a&chksm=fd6e68baca19e1accbffc7526775da2b880ac1de13bb49e347343c08f82822b2eb4b08f25a5b&token=522679735&lang=zh_CN#rd
 
-161.HTML5 ÖĞ¹ú²úÒµÁªÃË      
+161.HTML5 ä¸­å›½äº§ä¸šè”ç›Ÿ      
 
 https://www.html5plus.org/doc/zh_cn/share.html#plus.share.ShareService.launchMiniProgram
 
 
-162.·ÂIOS¼ÓÔØ¿ò  https://github.com/laiyongshan/LoadingDialog
-	´ø¼ÓÔØ³É¹¦Ê§°ÜĞ§¹ûµÄ¼ÓÔØ¿ò£ºhttps://www.jianshu.com/p/291756fae255
+162.ä»¿IOSåŠ è½½æ¡†  https://github.com/laiyongshan/LoadingDialog
+	å¸¦åŠ è½½æˆåŠŸå¤±è´¥æ•ˆæœçš„åŠ è½½æ¡†ï¼šhttps://www.jianshu.com/p/291756fae255
 
-163.»ªÎªPush  ÍÆËÍµÄ½â¾ö·½°¸
+163.åä¸ºPush  æ¨é€çš„è§£å†³æ–¹æ¡ˆ
 	https://developer.huawei.com/consumer/cn/service/hms/catalog/huaweipush_agent.html?page=hmssdk_huaweipush_devguide_client_agent
 
-164.¸÷ÖÖ¿áìÅÊµÓÃUIĞ§¹û  https://www.jianshu.com/p/8dd531b842b8
+164.å„ç§é…·ç‚«å®ç”¨UIæ•ˆæœ  https://www.jianshu.com/p/8dd531b842b8
 
 165.
-³öÏÖ£º
+å‡ºç°ï¼š
 Error:Failed to open zip file.
 
 Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)
@@ -595,57 +595,63 @@ Gradle's dependency cache may be corrupt (this sometimes occurs after a network 
 Re-download dependencies and sync project (requires network)
 
 Re-download dependencies and sync project (requires network)
-ÕâÖÖ´íÎó£¬Çë³¢ÊÔÏÂÃæÕâÖÖ·½·¨
+è¿™ç§é”™è¯¯ï¼Œè¯·å°è¯•ä¸‹é¢è¿™ç§æ–¹æ³•
 http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
 
-166. ×î¼òµ¥·½±ã¿ì½İµÄApp¸üĞÂ½â¾ö·½°¸
+166. æœ€ç®€å•æ–¹ä¾¿å¿«æ·çš„Appæ›´æ–°è§£å†³æ–¹æ¡ˆ
 	https://github.com/laiyongshan/updateapk
 
-167.¼òµ¥ºÃÓÃµÄ¶¯Ì¬È¨ÏŞÉêÇë 
+167.ç®€å•å¥½ç”¨çš„åŠ¨æ€æƒé™ç”³è¯· 
 	https://www.jianshu.com/p/2b9722340981
 	
-	¡°'com.tbruyelle.rxpermissions2:rxpermissions:0.9.5@aar¡±
-	¡°io.reactivex.rxjava2:rxjava:2.1.9¡±
+	â€œ'com.tbruyelle.rxpermissions2:rxpermissions:0.9.5@aarâ€
+	â€œio.reactivex.rxjava2:rxjava:2.1.9â€
 
-168.Android ¿ª·¢¹¤¾ß https://www.androiddevtools.cn/?tdsourcetag=s_pctim_aiomsg
+168.Android å¼€å‘å·¥å…· https://www.androiddevtools.cn/?tdsourcetag=s_pctim_aiomsg
 
-168.Glide Í¼Æ¬Ô²ĞÎ»òÔ²½Ç
+168.Glide å›¾ç‰‡åœ†å½¢æˆ–åœ†è§’
 	https://www.jianshu.com/p/5c54046d2b1c
 
-169.EditTextµã»÷²»µ¯³öÈí¼üÅÌµÄ½â¾ö°ì·¨£º
+169.EditTextç‚¹å‡»ä¸å¼¹å‡ºè½¯é”®ç›˜çš„è§£å†³åŠæ³•ï¼š
 	adjustPan|stateAlwaysVisible
 
-170.https://gitee.com/fuyang_lipengjun/platform  ¼õÉÙÖØ¸´ÔìÂÖ×Ó£¬¿ªÔ´Î¢ĞÅĞ¡³ÌĞòÉÌ³Ç (Ç°ºóÌ¨¿ªÔ´)
+170.https://gitee.com/fuyang_lipengjun/platform  å‡å°‘é‡å¤é€ è½®å­ï¼Œå¼€æºå¾®ä¿¡å°ç¨‹åºå•†åŸ (å‰åå°å¼€æº)
 
-171¡¢ µ÷ÓÃÏµÍ³Ô­Éú·ÖÏí¹¦ÄÜ https://www.jianshu.com/p/9522e24713e1
+171ã€ è°ƒç”¨ç³»ç»ŸåŸç”Ÿåˆ†äº«åŠŸèƒ½ https://www.jianshu.com/p/9522e24713e1
 
-172¡¢ÃæÊÔÌâ·ÖÏí
+172ã€é¢è¯•é¢˜åˆ†äº«
 	https://juejin.im/post/5da16523e51d45780931efb5?tdsourcetag=s_pctim_aiomsg
 
-173.KotlinĞ´ÉÌ³ÇApp MVP»ù´¡¿ò¼Ü
+173.Kotlinå†™å•†åŸApp MVPåŸºç¡€æ¡†æ¶
 	https://github.com/laiyongshan/KotlinMall
 
-174. scrollView   ×Ô¶¯¹ö¶¯µ½¶¥²¿µÄÎÊÌâ  
-£¬¾ÍÊÇÔÚscrollviewÀïÃæµÄµÚÒ»¸ö¿Ø¼ş£¬ÉèÖÃ
+174. scrollView   è‡ªåŠ¨æ»šåŠ¨åˆ°é¡¶éƒ¨çš„é—®é¢˜  
+ï¼Œå°±æ˜¯åœ¨scrollviewé‡Œé¢çš„ç¬¬ä¸€ä¸ªæ§ä»¶ï¼Œè®¾ç½®
 android:focusable="true"    android:focusableInTouchMode="true"
 
-175.±§Ç¸£¬ XposedÕæµÄ¿ÉÒÔÎªËùÓûÎª   https://github.com/android-hacker/VirtualXposed/releases/tag/0.18.0
+175.æŠ±æ­‰ï¼Œ XposedçœŸçš„å¯ä»¥ä¸ºæ‰€æ¬²ä¸º   https://github.com/android-hacker/VirtualXposed/releases/tag/0.18.0
 
 https://blog.csdn.net/coder_pig/article/details/80031285
 
 
-176.¹ØÓÚDaggerµÄÏêÏ¸½éÉÜºÍ½âÎö  https://www.open-open.com/lib/view/open1482201981550.html
+176.å…³äºDaggerçš„è¯¦ç»†ä»‹ç»å’Œè§£æ  https://www.open-open.com/lib/view/open1482201981550.html
 
 
-177.uni-app Ñ§Ï°×ÊÁÏ
+177.uni-app å­¦ä¹ èµ„æ–™
 	http://www.52res.cn/p_index.html#/
 
-178.¶¯Ì¬ĞŞ¸ÄApp×ÀÃæÍ¼±ê
+178.åŠ¨æ€ä¿®æ”¹Appæ¡Œé¢å›¾æ ‡
 	https://blog.csdn.net/fu908323236/article/details/78813136
 
-179.°¢Àï°Ù´¨ ÈÈĞŞ¸´hotFix  https://baichuan.taobao.com/docs/doc.htm?spm=a3c0d.7629140.0.0.1e7cbe48d88uA4&treeId=234&articleId=106531&docType=1
+179.é˜¿é‡Œç™¾å· çƒ­ä¿®å¤hotFix  https://baichuan.taobao.com/docs/doc.htm?spm=a3c0d.7629140.0.0.1e7cbe48d88uA4&treeId=234&articleId=106531&docType=1
 
-180.TeamViewer ÏÂÔØ£ºhttps://www.teamviewer.cn/cn/teamviewer-automatic-download/
+180.TeamViewer ä¸‹è½½ï¼šhttps://www.teamviewer.cn/cn/teamviewer-automatic-download/
 
-181.Î¢ĞÅ¿ª·ÅÆ½Ì¨ÕËºÅ£º
+181.å¾®ä¿¡å¼€æ”¾å¹³å°è´¦å·ï¼š
 	lys_2017@126.com
+182.ä¼˜è´¨Androidé¡¹ç›®æ¨èï¼š
+	è§†é¢‘ç¼–è¾‘: https://github.com/microshow/RxFFmpeg
+
+	è§†é¢‘æ’­æ”¾å™¨: https://github.com/dueeeke/DKVideoPlayer
+
+	
