@@ -659,4 +659,6 @@ https://blog.csdn.net/coder_pig/article/details/80031285
 
 184.看源社区 ：http://www.see-source.com//androidwidget/list.html?type=14&p=2
 
+185.Android 插件化框架:https://my.oschina.net/moziqi/blog/4463111
+
 	
